@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html class="no-js">
+
+  {% include head.html %}
+
+  <body>
+
+    <header class="home-header">
+
+      <div class="banner">
+        <!-- Sponsors -->
+        <a href="//www.cspnet.it/"><img src="img/csp.png" /></a>
+        <a href="//www.louisurban.com/"><img src="img/louisurban_logo.png" /></a>
+        <a href="//www.jetbrains.com/idea"><img src="//www.jetbrains.com/idea/opensource/img/all/banners/idea210x60_blue.gif" /></a>
+
+        <span style="margin: 0 2em" ></span>
+
+        <!-- Communities -->
+        <a href="http://java.net"><img src="img/javanet_icon.gif" /></a>
+
+        <span style="margin: 0 2em" ></span>
+
+        <!-- Events -->
+        <a href="http://2015.cloudconf.it/"><img src="img/cloudconf2015-a.png" width="70px" /></a>
+      </div>
+
+      {% if site.theme.header_text %}
+      <div class="call-out">{{ site.theme.header_text }}</div>
+      {% endif %}
+
+      <div id="greet">
+        <img src="/img/logo.jpg" />
+        <div class="name">
+          <h1>JUG Torino</h1>
+          <p>La Comunità Java/JVM di Torino</p>
+        </div>
+      </div>
+
+      {% include nav.html %}
+    </header>
+
+    <div class="content">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+  </body>
+  
+</html>

@@ -5,18 +5,14 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
+  title: JUG Torino
+  avatar: logo.jpg
   gravatar: # email md5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Java & JVM User Group Torino" # used by search engines
   
   # Header and footer text
-  header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-     
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+  header_text:
+  footer_text: Based on the <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
   
   # Icons
   rss: false
@@ -26,7 +22,7 @@ theme:
   dribbble: 
   facebook: 
   flickr: 
-  github: "rohanchandra/type-theme"
+  github: "jugtorino"
   google_plus: 
   instagram: 
   linkedin:  # full URL
@@ -36,7 +32,7 @@ theme:
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter: "@jugtorino"
   wordpress: 
   youtube: 
   

@@ -1,5 +1,5 @@
 .site-header {
-  @extend %padding-small;
+  @extend %padding-regular;
   background: $brand-color;
   border-bottom: 1px solid $border-color;
   display: inline-block;
@@ -25,29 +25,32 @@
     font-size: 1em;
     line-height: 1.5;
   }
+}
 
-  .site-nav {
+.site-nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    line-height: 1.5;
+    float: right;
+    text-align: right;
+  }
+  li {
+    display: inline;
+    float: left;
+    margin-right: 0.4em;
+  }
+  @media (max-width: 1100px) {
     ul {
-      margin: 0;
-      padding: 0;
-      list-style: none;
-      line-height: 1.5;
-      float: right;
-      text-align: right;
-    }
-    li {
-      display: inline;
+      display: inline-block;
       float: left;
-      margin-right: 0.4em;
+      padding-top: $padding-small;
+      text-align: left;
+      width: 100%;
     }
-    @media (max-width: 1100px) {
-      ul {
-        display: inline-block;
-        float: left;
-        padding-top: $padding-small;
-        text-align: left;
-        width: 100%;
-      } 
-    }
+  }
+  .page-link:hover {
+    @extend %link-hover;
   }
 }

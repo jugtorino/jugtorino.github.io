@@ -1,12 +1,8 @@
 ---
-layout: default
+layout: home
 ---
 
 <div class="home">
-
-  {% if site.theme.header_text %}
-  <div class="call-out">{{ site.theme.header_text }}</div>
-  {% endif %}
 
   <div class="posts">
     {% for post in paginator.posts %}
