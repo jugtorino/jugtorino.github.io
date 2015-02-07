@@ -5,6 +5,9 @@ hide: true
 permalink: /people/simonebordet/
 ---
 
+<simone.bordet@gmail.com>
+<a href="https://github.com/sbordet"><i class="fa fa-fw fa-github"></i></a>
+
 "Cujus rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet"
 
 "I have discovered a truly remarkable proof which this margin is too small to contain"
