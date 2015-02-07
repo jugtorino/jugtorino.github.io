@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Meetings
+description: Elenco di tutti i meetings
 permalink: /meetings/
 ---
 

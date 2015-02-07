@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Iscrizione
+description: Come iscriversi al JUG Torino
 permalink: /subscribe/
 ---
 

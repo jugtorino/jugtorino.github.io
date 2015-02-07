@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chi Siamo
+description: Le persone del JUG Torino
 permalink: /people/
 ---
 

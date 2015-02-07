@@ -3,7 +3,7 @@
     {% for page in site.pages %}
     {% if page.title and page.hide != true %}
     <li>
-      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.description }}">{{ page.title }}</a>
     </li>
     {% endif %}
     {% endfor %}
