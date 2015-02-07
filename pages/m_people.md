@@ -5,4 +5,5 @@ permalink: /people/
 ---
 
 [Simone Bordet](simonebordet/)
+[Roberto Franchini](robertofranchini/)
 
