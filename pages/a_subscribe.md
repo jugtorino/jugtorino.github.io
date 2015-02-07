@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Iscrizione
+permalink: /subscribe/
 ---
 
 L'iscrizione al JUG Torino è gratuita e non implica nessun impegno.
