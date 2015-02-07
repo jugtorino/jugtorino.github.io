@@ -3,11 +3,11 @@ layout: post
 title: Meeting Marzo 2014
 ---
 
-26 Marzo 2014 - **JDK8 in Action** - Mario Fusco
+26 Febbraio 2014 - **OWNER, Java Properties Reinvented** - Luigi Viggiano
 
 #### Quando ?
 
-<u>26 Marzo 2014</u>
+<u>26 Febbraio 2014</u>
 
 * 19:00 - Check-in
 * 19:30 - Inizio Meeting
@@ -21,7 +21,7 @@ Presso [CELI S.r.L.](/places/celi/)
 
 [Iscriviti](/subscribe/) alla mailing list del JUG Torino per venire a conoscenza degli eventi.
 
-Registra la tua presenza su [JUG Events](http://www.jugevents.org/jugevents/event/53512)
+Registra la tua presenza su [JUG Events](http://www.jugevents.org/jugevents/event/53300)
 per **confermare la tua presenza al meeting**.
 
 #### Posso avere un altro riferimento ?
