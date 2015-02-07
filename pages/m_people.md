@@ -4,6 +4,7 @@ title: Chi Siamo
 permalink: /people/
 ---
 
-[Simone Bordet](simonebordet/)
 [Roberto Franchini](robertofranchini/)
+
+[Simone Bordet](simonebordet/)
 
