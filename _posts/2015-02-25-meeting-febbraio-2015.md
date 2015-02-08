@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Meeting Dicembre 2014
+title: Meeting Febbraio 2015
 ---
 
-17 Dicembre 2014 - **REDIS for duplicate detection on real time stream** - Roberto Franchini
+25 Febbraio 2015 - **REDIS for duplicate detection on real time stream** - Roberto Franchini
 
 #### Quando ?
 
-<u>17 Dicembre 2014</u>
+<u>25 Febbraio 2015</u>
 
 * 18:30 - Check-in
 * 18:45 - Inizio Meeting
