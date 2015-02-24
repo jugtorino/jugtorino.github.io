@@ -9,3 +9,4 @@ permalink: /people/
 
 [Simone Bordet](simonebordet/)
 
+[Luigi R. Viggiano](luigiviggiano/)

@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://jugtorino.it/" # the base hostname & protocol for your site
+exclude: ["CNAME", "README.md", "LICENSE"]
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
