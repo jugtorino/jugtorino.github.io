@@ -5,8 +5,6 @@ description: Le persone del JUG Torino
 permalink: /people/
 ---
 
-[Roberto Franchini](robertofranchini/)
-
-[Simone Bordet](simonebordet/)
-
-[Luigi R. Viggiano](luigiviggiano/)
+- [Roberto Franchini](robertofranchini/)
+- [Simone Bordet](simonebordet/)
+- [Luigi R. Viggiano](luigiviggiano/)
