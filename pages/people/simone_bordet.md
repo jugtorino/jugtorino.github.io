@@ -63,3 +63,9 @@ Brickwalls are there to stop the people who don't want it badly enough."
 "If you have to tell people how good you are, how good really are you ?"
 
 Rick Kaepernick, father of [Colin Kaepernick](http://en.wikipedia.org/wiki/Colin_Kaepernick)
+
+----
+
+"Most people do not listen with the intent to understand; they listen with the intent to reply."
+
+[Stephen R. Covey](http://en.wikipedia.org/wiki/Stephen_Covey)
