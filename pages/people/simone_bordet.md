@@ -74,5 +74,5 @@ Rick Kaepernick, father of [Colin Kaepernick](http://en.wikipedia.org/wiki/Colin
 
 [Just before landing flight 1549 in the Hudson](https://www.youtube.com/watch?v=gjXCulRjPas)
 
-Capt. Sullenberger: "Got any ideas ?"
+Capt. Sullenberger: "Got any ideas ?"  
 1st Officer Skiles: "Actually not."
