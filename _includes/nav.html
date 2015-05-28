@@ -3,13 +3,14 @@
     {% assign first = true %}
     {% for page in site.pages %}
       {% if page.title and page.hide != true %}
-        {% if first != true %}
-          {% assign first = false %}
-          <span class="">|</span>
-        {% endif %}
-      <li>
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.description }}">{{ page.title }}</a>
-      </li>
+        <li>
+          {% if first == true %}
+            {% assign first = false %}
+          {% else %}
+            <span class="page-link-separator">|</span>
+          {% endif %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.description }}">{{ page.title }}</a>
+        </li>
       {% endif %}
     {% endfor %}
 
