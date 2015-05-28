@@ -1,13 +1,16 @@
 <nav class="site-nav">
   <ul>
+    {% assign first = true %}
     {% for page in site.pages %}
-    {% if page.title and page.hide != true %}
-    <li>
-      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.description }}">{{ page.title }}</a>
-      {{ forloop.first }}/{{ forloop.last }}/{{ forloop.index }}/{{ forloop.rindex }}/{{forloop.length}}
-    </li>
-    {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
-    {% endif %}
+      {% if page.title and page.hide != true %}
+        {% if first != true %}
+          {% assign first = false %}
+          <span class="">|</span>
+        {% endif %}
+      <li>
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.description }}">{{ page.title }}</a>
+      </li>
+      {% endif %}
     {% endfor %}
 
     <!-- Social icons from Font Awesome, if enabled -->
