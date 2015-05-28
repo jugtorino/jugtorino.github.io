@@ -4,6 +4,7 @@
     {% if page.title and page.hide != true %}
     <li>
       <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.description }}">{{ page.title }}</a>
+      {{ forloop.first }}/{{ forloop.last }}/{{ forloop.index }}/{{ forloop.rindex }}/{{forloop.length}}
     </li>
     {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
     {% endif %}
