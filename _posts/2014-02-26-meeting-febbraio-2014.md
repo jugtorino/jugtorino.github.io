@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting Marzo 2014
+title: Meeting Febbraio 2014
 ---
 
 26 Febbraio 2014 - **OWNER, Java Properties Reinvented** - Luigi Viggiano
