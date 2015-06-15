@@ -21,7 +21,7 @@ Presso [CELI S.r.L.](/places/celi/)
 
 [Iscriviti](/subscribe/) alla mailing list del JUG Torino per venire a conoscenza degli eventi.
 
-Registra la tua presenza su JUG Events (il link verrà pubblicato appena disponibile)
+Registra la tua presenza su [JUG Events](http://jugevents.org/jugevents/event/56427)
 per **confermare la tua presenza al meeting**.
 
 #### Posso avere un altro riferimento ?
