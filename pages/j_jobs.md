@@ -13,6 +13,51 @@ editare online
 Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
+**Data:** 17/06/2015  
+**Company:** [Workshare](https://www.workshare.com)  
+**Contact:** <eugenio.romano@workshare.com>  
+**Location:** London (UK)  
+**Salary:** £55k - £65k   
+
+
+**Job Description:**  
+ 
+Working in our HQ in East London, as a senior full stack developer, you are going to be be part of 
+a talented agile development crew in one of our tribes. You are a strong Javascript developer, with 
+knowledge of the major frameworks, and a well grounded Java backend developer, with a good 
+grasp on the most common stacks. You have good understanding of object-orientation, SOLID principles
+and their practical application. You have experience in building and structuring JavaScript single 
+page applications applying design patterns either on your own homegrown MV* framework or using 
+libraries like BackBoneJS (or very strong Javascript). You have concrete experience on concurrent programming, 
+a good understanding of how REST apis work and you are comfortable working with a microservices based 
+architecture. You are skilled and always up-to-date in modern web technologies, you regularly apply 
+TDD regardless of technology stacks. You have a proven experience working with agile methodologies 
+and using agile engineering practices.
+ 
+Ideally you are active in the developer community either via your open source pet projects on your 
+github account, your technical weblog or as a contributor to technical user groups. As part of the 
+frontend and backend guild you will be involved in the weekly training activities organized by the 
+coordinators, and as a developer you will be entitled to use 20% of your time for a project sponsored by you.
+ 
+You get a 25 days holidays per year (rising to 28 days), company paid bank holidays (8 statutory days 
+per year), medical and travel insurance, pension scheme contribution up to 5%, income protection, critical 
+illness insurance, wellness program including contribution to gym membership, vision care, childcare vouchers, 
+hot/cold drinks + fruit available, and a competitive salary. We have an all-year ongoing english language training plan for foreigners and a table football to have fun!
+
+Other general requisites:
+* you must have a good understanding of object-orientation, strong concurrent programming and an understanding of REST based architectures   
+* BackBone.js is a must have skill, but if you never used it commercially you will at least have use it on one of your pet projects or you are so strong in Javascript that basically you do not care :)
+* you should apply TDD regardless of the stack: if not, then you are also extremely keen working in this way
+
+Specific requisites on the Java side:
+* excellent OO knowledge   
+* excellent Java language knowledge   
+* JAX-RS, Guice, Jetty   
+* TDD JUnit/Mockito   
+* stack lightweight [dropwizard](http://dropwizard.io)-like   
+* MySQL/PostgresSQL
+
+---
 
 **Data:** 16/06/2015  
 **Company:** [Onebip](http://www.onebip.com)  
