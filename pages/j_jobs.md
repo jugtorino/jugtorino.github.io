@@ -16,7 +16,7 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 **Data:** 16/06/2015  
 **Company:** [Onebip](http://www.onebip.com)  
-**Reference:** http://corporate.onebip.com/android-developer-to-join-our-team/
+**Contact:** <francesco.dominidiato@neomobile.com>
 
 **Job Description:**  
 Stiamo cercando uno Sviluppatore Java Android con almeno 2 anni di esperienza, 
@@ -33,6 +33,6 @@ Il team di sviluppo è molto coeso e fa ricorso a pratiche agili quali test
 automatici, collective code ownership, retrospettive e stand-up meeting giornaliero.
 
 Maggiori dettagli sugli skill richiesti e sul salary range offerto sono disponibili 
-alla [pagina di reference](http://corporate.onebip.com/android-developer-to-join-our-team/).
+a [questa pagina](http://corporate.onebip.com/android-developer-to-join-our-team/).
 
 ---
