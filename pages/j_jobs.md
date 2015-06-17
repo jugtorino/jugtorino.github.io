@@ -44,10 +44,10 @@ per year), medical and travel insurance, pension scheme contribution up to 5%, i
 illness insurance, wellness program including contribution to gym membership, vision care, childcare vouchers, 
 hot/cold drinks + fruit available, and a competitive salary. We have an all-year ongoing english language training plan for foreigners and a table football to have fun!
 
-Other general requisites:
+Other general requisites:  
 * you must have a good understanding of object-orientation, strong concurrent programming and an understanding of REST based architectures   
-* BackBone.js is a must have skill, but if you never used it commercially you will at least have use it on one of your pet projects or you are so strong in Javascript that basically you do not care :)
-* you should apply TDD regardless of the stack: if not, then you are also extremely keen working in this way
+* BackBone.js is a must have skill, but if you never used it commercially you will at least have use it on one of your pet projects or you are so strong in Javascript that basically you do not care :)  
+* you should apply TDD regardless of the stack: if not, then you are also extremely keen working in this way  
 
 Specific requisites on the Java side:
 * excellent OO knowledge   
