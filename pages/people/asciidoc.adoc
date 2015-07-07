@@ -1,6 +1,6 @@
 ---
-:layout: page
-:permalink: /adoc/
+layout: page
+permalink: /people/adoc/
 ---
 
 `backtick`
