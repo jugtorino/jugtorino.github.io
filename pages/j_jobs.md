@@ -13,11 +13,11 @@ editare online
 Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
-**Data:** 17/06/2015  
+**Data:** 23/07/2015  
 **Company:** [Workshare](https://www.workshare.com)  
-**Contact:** <eugenio.romano@workshare.com>  
+**Contact:** <albino.tonnina@workshare.com>  
 **Location:** London (UK)  
-**Salary:** £55k - £65k   
+**Salary:** £60k - £70k   
 
 
 **Job Description:**  
@@ -37,12 +37,13 @@ and using agile engineering practices.
 Ideally you are active in the developer community either via your open source pet projects on your 
 github account, your technical weblog or as a contributor to technical user groups. As part of the 
 frontend and backend guild you will be involved in the weekly training activities organized by the 
-coordinators, and as a developer you will be entitled to use 20% of your time for a project sponsored by you.
- 
+coordinators. As a developer you will be entitled to use 20% of your time for a project sponsored by you
+and to a one day per week working-from-home.
+
 You get a 25 days holidays per year (rising to 28 days), company paid bank holidays (8 statutory days 
 per year), medical and travel insurance, pension scheme contribution up to 5%, income protection, critical 
 illness insurance, wellness program including contribution to gym membership, vision care, childcare vouchers, 
-hot/cold drinks + fruit available, and a competitive salary. We have an all-year ongoing english language training plan for foreigners and a table football to have fun!
+hot/cold drinks + fruit available, and a competitive salary. We have an all-year ongoing english language training plan for foreigners and a table football to have fun! 
 
 Other general requisites:  
 * you must have a good understanding of object-orientation, strong concurrent programming and an understanding of REST based architectures   
