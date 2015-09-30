@@ -13,6 +13,43 @@ editare online
 Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
+
+**Data:** 30/09/2015  
+**Company:** [GET Italia](http://www.getitalia.to.it)  
+**Contact:** <jobs@getitalia.to.it>  
+**Location:** Villanova d'Asti (AT)  
+**Title:** Java Developer   
+
+
+**Job Description:**  
+ 
+Sviluppatore Java per soluzioni in Cloud Computing
+GET Italia è un’azienda internazionale fornitrice e integratrice di prodotti e servizi attraverso piattaforme web per la collezione, elaborazione, analisi e gestione di dati. Sviluppo Sw in Java, piattaforma Unix.
+
+Attività Previste
+I nostri applicativi sono erogati ai clienti completamente in Cloud.
+La nostra azienda è proprietaria di un prodotto denominato Sateltrack (www.sateltrack.com) che utilizziamo come piattaforma per lo sviluppo di applicativi per la gestione di flotte di veicoli (soluzioni di Fleet Management). 
+Il candidato verrà inserito nel nostro team dedicato all'analisi funzionale e sviluppo software.
+
+Le attività previste sono di:
+* manutenzione dell'esistente, correzione bachi.
+* Analisi e sviluppo di nuove funzionalità e interi moduli secondo direttive della direzione commerciale
+* Evoluzione pro-attiva sulla tecnologia e funzionalità migliorative dei prodotti
+* Mantenimento e continuo miglioramento dell'architettura tecnologica
+* Continua ottimizzazione delle prestazioni del DB e degli applicativi
+* Supporto e creazione di applicativi per supportare esigenze aziendali
+* Creazione di nuovi applicativi in Cloud Computing in offerta a nuovi segmenti di mercato
+
+Requisiti:
+* Web Application in Java su piattaforma J2EE
+* Front-end Web basati su open standard: Javascript, HTML5, CSS3, JQuery, etc.
+* DB Relazionali (MySQL), gradita conoscenza sui NoSQL
+* Linux e basi di scripting
+* Titolo preferenziale: Spring, Hibernate, FreeMarker, JasperReports
+* Indispensabile conoscenza della lingua inglese
+
+
+---
 **Data:** 28/08/2015  
 **Company:** [Workshare](https://www.workshare.com)  
 **Contact:** <albino.tonnina@workshare.com>  
