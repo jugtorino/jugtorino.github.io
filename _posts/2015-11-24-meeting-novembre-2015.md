@@ -10,7 +10,7 @@ In questo intervento vorrei presentarvi la nostra storia e le nostre motivazioni
 
 #### Quando ?
 
-<u>18 Giugno 2015</u>
+<u>30 Novembre 2015</u>
 
 * 18:30 - Check-in
 * 18:45 - Inizio Meeting
