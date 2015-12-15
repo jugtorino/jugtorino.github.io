@@ -35,12 +35,12 @@ la puoi consultare anche online se sei già iscritto.
 Puoi contattare [Roberto Franchini](/people/robertofranchini/).
 
 
-### Il materiale ?
+#### Il materiale ?
 Il codice dei servizi in nodejs "naive" e' qui:  
-https://github.com/bbossola/microjs
+[github.com/bbossola/microjs](https://github.com/bbossola/microjs)
 
 Il location service fatto con nodejs e' qui:  
-https://github.com/bbossola/location-service
+[github.com/bbossola/location-service](https://github.com/bbossola/location-service)
 
 Le slide sono qui:  
-http://www.slideshare.net/bbossola/microservices-the-lean-way
+[slideshare.net/bbossola/microservices-the-lean-way](http://www.slideshare.net/bbossola/microservices-the-lean-way)
