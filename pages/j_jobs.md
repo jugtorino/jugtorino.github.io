@@ -14,6 +14,64 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Data:** 24/12/2015  
+**Company:** [aizoOn Italia](https://www.aizoongroup.com)  
+**Contact:** <maurizio.avilia@aizoon.it>  
+**Location:** Torino (TO)  
+**Title:** Java J2EE Web Developer
+
+**Job Description:**  
+
+Il candidato è un laureato in materie tecnico-scientifiche, con almeno tre anni di esperienza nel ruolo.
+Si occuperà di sviluppare oggetti ed interfacce grafiche relative a prodotti enterprise web
+based.
+
+Nello specifico si occuperà di analizzare e validare soluzioni di interfacciamento con sorgenti dati
+esterne, implementare interfacce grafiche web 2.0, supportare i team di sviluppo nella scelta delle
+corrette metodologie e strumenti per la realizzazione di applicazioni J2EE
+
+Sono richieste le seguenti competenze:
+
+* Java J2EE
+* Object Oriented Analysis
+* Modellazione relazionale
+ 
+E' considerato requisito preferenziale la conoscenza di 
+
+* Librerie Javascript, 
+* framework Bootstrap e AngularJS, 
+* framework back-end (Spring, Spring MVC) 
+ 
+Completano il profilo una buona conoscenza della lingua inglese, orientamento al lavoro in team ed al problem solving.
+
+---
+
+**Data:** 24/12/2015  
+**Company:** [aizoOn Italia](https://www.aizoongroup.com)  
+**Contact:** <maurizio.avilia@aizoon.it>  
+**Location:** Torino (TO)  
+**Title:** Web Developer di Prodotto
+
+**Job Description:**  
+
+Il candidato è un laureato in materie tecnico-scientifiche, con almeno tre anni di esperienza nel ruolo.
+Si occuperà dello sviluppo front end di un prodotto innovativo in ambito IT Security, con una
+particolare attenzione ai temi legati all'organizzazione delle informazioni ed all'usabilità.
+
+Sono richieste le seguenti competenze:
+
+* Javascript
+* HTML5 e CSS3
+* Capacità di lettura critica del dato in ambito sistemistico e networking
+
+E' considerato requisito preferenziale la conoscenza dei framework 
+* Angular JS
+* Boostrap 
+ 
+Completano il profilo una buona conoscenza della lingua inglese, proattività ed autonomia organizzativa.
+ 
+---
+
 **Data:** 30/09/2015  
 **Company:** [GET Italia](http://www.getitalia.to.it)  
 **Contact:** <jobs@getitalia.to.it>  
