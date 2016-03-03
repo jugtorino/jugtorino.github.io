@@ -14,11 +14,11 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
-**Data:** 03/03/2016
-**Company:** [Be Team](http://www.be-team.eu/)
+**Data:** 03/03/2016  
+**Company:** [Be Team](http://www.be-team.eu/)  
 **Contact:** <paolo.businelli@be-team.eu>
-**Location:** Torino (TO)
-**Title:** JBoss System Administrator
+**Location:** Torino (TO)  
+**Title:** JBoss System Administrator  
 
 **Job Description:**
 
