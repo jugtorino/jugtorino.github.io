@@ -14,6 +14,31 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Data:** 05/03/2016  
+**Company:** [Synesthesia](http://synesthesia.it/)  
+**Contact:** <francesco.ronchi@synesthesia.it> <jobs@synesthesia.it>
+**Location:** Torino (TO)  
+**Title:** Senior Java Developer  
+
+**Job Description:**
+
+in Synesthesia stiamo cercando un dev Java senior per un progetto importante, durata contratto almeno 1 anno (probabile estensione).
+Il candidato dovrà curare lo sviluppo di un nuovo backend / middelware di integrazione in un team misto (nostro + partner + cliente) in ambiente internazionale.
+
+Requisiti: 
+- esperienza su Java (server side) di almeno 4-5 anni
+- conoscenza dei principali framework MVC
+- buona conoscenza dell'inglese 
+- capacità di problem solving e attitudine al lavoro in team
+
+Preferenziali (non richiesti ma graditi):
+- conoscenza di WSO2 (http://wso2.com/)
+- esperienza su J2EE
+- competenze su Android
+
+
+---
+
 **Data:** 03/03/2016  
 **Company:** [Be Team](http://www.be-team.eu/)  
 **Contact:** <paolo.businelli@be-team.eu>
