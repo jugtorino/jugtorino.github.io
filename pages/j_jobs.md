@@ -24,44 +24,42 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 TASKS
 To support the independent integration and validation (IVT) of a large multinational software system development with:
-•	Design and development of test software for integration and validation testing;
-•	Establishment, maintenance, and evolution of the software development environment for the complete project;
-•	Support to development teams for the use of the development environment and the infrastructure;
-•	Establishment of test plans;
-•	Acceptance and integration of software delivered by development teams;
-•	Validation of software releases and delivery to the customer;
+- Design and development of test software for integration and validation testing;
+- Establishment, maintenance, and evolution of the software development environment for the complete project;
+- Support to development teams for the use of the development environment and the infrastructure;
+- Establishment of test plans;
+- Acceptance and integration of software delivered by development teams;
+- Validation of software releases and delivery to the customer;
  
 QUALIFICATIONS/EXPERIENCE
 University degree in informatics or in a related technical discipline with a solid software engineering background and experience in software design, programming, integration, and testing.
  
 ESSENTIAL SKILLS
-•	Ability to understand Software Architectures
-•	Ability to define, optimize and follow processes
-•	Ability to integrate software components
-•	Ability to communicate and to work in a team
-•	Ability to provide adequate support to customers in troubleshooting
-•	Software development on Linux and basic Linux system administration
-•	Java programming language & Eclipse Platform
-•	Source Code Control System (Git)
-•	Experienced with automated build systems (Maven/Tycho)
-•	Automated black box testing
-•	Shared build repositories (Nexus)
-•	Continuous integration environment (Jenkins)
-•	Good documentation writing skills
-•	Fluency in spoken and written English
+- Ability to understand Software Architectures
+- Ability to define, optimize and follow processes
+- Ability to integrate software components
+- Ability to communicate and to work in a team
+- Ability to provide adequate support to customers in troubleshooting
+- Software development on Linux and basic Linux system administration
+- Java programming language & Eclipse Platform
+- Source Code Control System (Git)
+- Experienced with automated build systems (Maven/Tycho)
+- Automated black box testing
+- Shared build repositories (Nexus)
+- Continuous integration environment (Jenkins)
+- Good documentation writing skills
+- Fluency in spoken and written English
  
 DESIRABLE SKILLS
-•	Modelling with UML
-•	System design using Service Oriented Architectures
-•	Magic Draw
-•	Java technologies such as OSGi, Blueprint, EMF/Ecore, BIRT, RCP, Acceleo
-•	Software Quality Analysis (SonarQube, CheckStyle)
-•	Testing frameworks such as JUnit, Mockito, Powermock, SWTBot
-•	Release Workflows using GIT
-•	Database Clusters
-•	ECSS standards for space software development 
-
-
+- Modelling with UML
+- System design using Service Oriented Architectures
+- Magic Draw
+- Java technologies such as OSGi, Blueprint, EMF/Ecore, BIRT, RCP, Acceleo
+- Software Quality Analysis (SonarQube, CheckStyle)
+- Testing frameworks such as JUnit, Mockito, Powermock, SWTBot
+- Release Workflows using GIT
+- Database Clusters
+- ECSS standards for space software development 
 
 ---
 
