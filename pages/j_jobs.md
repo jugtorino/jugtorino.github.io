@@ -63,8 +63,6 @@ DESIRABLE SKILLS
 
 ---
 
----
-
 **Data:** 05/03/2016  
 **Company:** [Synesthesia](http://synesthesia.it/)  
 **Contact:** <francesco.ronchi@synesthesia.it> <jobs@synesthesia.it>
