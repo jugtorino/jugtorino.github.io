@@ -24,6 +24,7 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 TASKS
 To support the independent integration and validation (IVT) of a large multinational software system development with:
+
 * Design and development of test software for integration and validation testing;
 * Establishment, maintenance, and evolution of the software development environment for the complete project;
 * Support to development teams for the use of the development environment and the infrastructure;
@@ -35,6 +36,7 @@ QUALIFICATIONS/EXPERIENCE
 University degree in informatics or in a related technical discipline with a solid software engineering background and experience in software design, programming, integration, and testing.
  
 ESSENTIAL SKILLS
+
 * Ability to understand Software Architectures
 * Ability to define, optimize and follow processes
 * Ability to integrate software components
@@ -51,6 +53,7 @@ ESSENTIAL SKILLS
 * Fluency in spoken and written English
  
 DESIRABLE SKILLS
+
 * Modelling with UML
 * System design using Service Oriented Architectures
 * Magic Draw
@@ -74,17 +77,18 @@ DESIRABLE SKILLS
 in Synesthesia stiamo cercando un dev Java senior per un progetto importante, durata contratto almeno 1 anno (probabile estensione).
 Il candidato dovrà curare lo sviluppo di un nuovo backend / middelware di integrazione in un team misto (nostro + partner + cliente) in ambiente internazionale.
 
-Requisiti: 
+Requisiti:
+
 * esperienza su Java (server side) di almeno 4-5 anni
 * conoscenza dei principali framework MVC
 * buona conoscenza dell'inglese 
 * capacità di problem solving e attitudine al lavoro in team
 
 Preferenziali (non richiesti ma graditi):
+
 * conoscenza di WSO2 (http://wso2.com/)
 * esperienza su J2EE
 * competenze su Android
-
 
 ---
 
