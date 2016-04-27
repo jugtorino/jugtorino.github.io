@@ -16,9 +16,9 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 **Data:** 27/04/2016  
 **Company:** [aizoOn](https://www.aizoongroup.com)  
-**Contact:** <giulia.zanon@aizoon.it>
 **Location:** Torino  
 **Title:** Front-end Developer & Designer  
+**Contact:** giulia.zanon@aizoon.it
 
 aizoOn, società di consulenza tecnologica innovativa, ricerca sviluppatori dinamici e motivati con la voglia di mettersi in gioco e operare su tecnologie di back end e front end nell’ambito dello sviluppo di un prodotto innovativo orientato alla Cyber Security.
 
@@ -43,9 +43,9 @@ La conoscenza dei framework Angular JS e Bootstrap è da considerarsi requisito 
 
 **Data:** 27/04/2016  
 **Company:** [aizoOn](https://www.aizoongroup.com)  
-**Contact:** <giulia.zanon@aizoon.it>
 **Location:** Torino  
 **Title:** Java Security Developer
+**Contact:** giulia.zanon@aizoon.it
 
 aizoOn, società di consulenza tecnologica innovativa, ricerca sviluppatori dinamici e motivati con la voglia di mettersi in gioco e operare su tecnologie di back end e front end nell’ambito dello sviluppo di un prodotto innovativo orientato alla Cyber Security.
 
@@ -72,9 +72,9 @@ La conoscenza del framework MyBatis e dei DB NoSql (MongoDB) sono da considerars
 
 **Data:** 12/04/2016  
 **Company:** [Vitrociset Belgium](http://www.vitrocisetbelgium.com)  
-**Contact:** <r.sasu@vitrocisetbelgium.com>
 **Location:** Darmstadt (Germany)  
 **Title:** Senior Java Developer  
+**Contact:** r.sasu@vitrocisetbelgium.com
 
 **Job Description:**
 
@@ -124,9 +124,9 @@ DESIRABLE SKILLS
 
 **Data:** 05/03/2016  
 **Company:** [Synesthesia](http://synesthesia.it/)  
-**Contact:** <francesco.ronchi@synesthesia.it> <jobs@synesthesia.it>
 **Location:** Torino (TO)  
 **Title:** Senior Java Developer  
+**Contact:** francesco.ronchi@synesthesia.it jobs@synesthesia.it
 
 **Job Description:**
 
@@ -150,9 +150,9 @@ Preferenziali (non richiesti ma graditi):
 
 **Data:** 03/03/2016  
 **Company:** [Be Team](http://www.be-team.eu/)  
-**Contact:** <paolo.businelli@be-team.eu>
 **Location:** Torino (TO)  
 **Title:** JBoss System Administrator  
+**Contact:** paolo.businelli@be-team.eu
 
 **Job Description:**
 
