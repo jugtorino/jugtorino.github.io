@@ -14,6 +14,62 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Data:** 27/04/2016  
+**Company:** [aizoOn](https://www.aizoongroup.com)  
+**Contact:** <giulia.zanon@aizoon.it>
+**Location:** Torino  
+**Title:** Front-end Developer & Designer  
+
+aizoOn, società di consulenza tecnologica innovativa, ricerca sviluppatori dinamici e motivati con la voglia di mettersi in gioco e operare su tecnologie di back end e front end nell’ambito dello sviluppo di un prodotto innovativo orientato alla Cyber Security.
+
+**Job Description**
+
+Il candidato ha maturato almeno tre anni di esperienza nel ruolo. La sua figura verrà integrata all’interno del team di sviluppo di un prodotto innovativo in ambito Security. In particolare si occuperò di:
+
+* progettare il design grafico delle nuove dashboard
+* rivedere le dashboard già esistenti
+* assicurare che la user experience sia agevole utilizzando i comuni dettami dell’usabilità delle interfacce
+* realizzare le soluzioni proposte utilizzando lo stack tecnologico di riferimento
+
+**Technical Skills**
+
+* Javascript
+* HTML5
+* CSS3
+
+La conoscenza dei framework Angular JS e Bootstrap è da considerarsi requisito preferenziale.
+
+---
+
+**Data:** 27/04/2016  
+**Company:** [aizoOn](https://www.aizoongroup.com)  
+**Contact:** <giulia.zanon@aizoon.it>
+**Location:** Torino  
+**Title:** Java Security Developer
+
+aizoOn, società di consulenza tecnologica innovativa, ricerca sviluppatori dinamici e motivati con la voglia di mettersi in gioco e operare su tecnologie di back end e front end nell’ambito dello sviluppo di un prodotto innovativo orientato alla Cyber Security.
+
+**Job Description**
+
+Il candidato ha maturato almeno tre anni di esperienza nel ruolo; si occuperà dello sviluppo back-end di un prodotto innovativo in ambito Cyber Security.
+
+*	realizzare servizi di tipo RESTFull per l’interfacciamento con il front-end
+*	analizzare e validare soluzioni di interfacciamento con sorgenti dati esterne
+*	sviluppare le logiche di back-end per il processamento delle informazioni ricevute dall’IDS di riferimento
+*	sviluppare le logiche di EAI per l’interfacciamento tra i sottosistemi componenti il prodotto
+*	supportare il team di sviluppo nella scelta delle corrette metodologie e strumenti per la realizzazione di applicazioni J2EE
+
+
+**Technical Skills**
+
+* Spring
+* Spring MVC
+* Object Oriented Analysis
+
+La conoscenza del framework MyBatis e dei DB NoSql (MongoDB) sono da considerarsi requisiti preferenziali insieme a una conoscenza di base di Networking.
+
+---
+
 **Data:** 12/04/2016  
 **Company:** [Vitrociset Belgium](http://www.vitrocisetbelgium.com)  
 **Contact:** <r.sasu@vitrocisetbelgium.com>
