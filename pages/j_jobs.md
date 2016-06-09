@@ -26,27 +26,21 @@ Offriamo lo sviluppo end-end di software su misura basato su tecnologie opensour
 **Job Description**
 
 - Tipo di contratto: a tempo indeterminato
-
 - Salario offerto: [email me]
-
 - Conoscenze richieste: lingua inglese, almeno un linguaggio di programmazione, preferibilmente su JVM, TDD, Agile
-
 - Ruolo da coprire e responsabilità: Sviluppatore all’interno di team agili, pair programming, TDD, micro services, cloud, ecc.
-
 - Sede di lavoro: Londra
-
 - Modalità di selezione: 
 Colloquio informale via telefono, 
 Test di programmazione - via remoto con lo schermo condiviso
 Incontro con il leadership team di Equal Experts a  Londra
-
 - Tipo cliente o settore: vario, molto probabilmente HMRC, per avere un’idea del cliente e della cultura: https://www.equalexperts.com/hmrc-digital-platform-as-a-club/
 
 **Technical Skills**
 
-* Java o Scala
-* TDD
-* Pair Programming
+- Java o Scala
+- TDD
+- Pair Programming
 
 ---
 
