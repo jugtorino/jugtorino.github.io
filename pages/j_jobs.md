@@ -14,6 +14,43 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Data:** 03/06/2016  
+**Company:** [EqualExperts](https://www.equalexperts.com)  
+**Location:** Londra  
+**Title:** Software Engineer  
+**Contact:** <aterreno@equalexperts.com>
+
+Il nostro network di consulenti esperti porta maturita', pragmatismo e passione su progetti software di ogni tipo e dimensione. 
+Offriamo lo sviluppo end-end di software su misura basato su tecnologie opensource, da applicazioni mobili a complessi sistemi enterprise. 
+
+**Job Description**
+
+- Tipo di contratto: a tempo indeterminato
+
+- Salario offerto: [email me]
+
+- Conoscenze richieste: lingua inglese, almeno un linguaggio di programmazione, preferibilmente su JVM, TDD, Agile
+
+- Ruolo da coprire e responsabilità: Sviluppatore all’interno di team agili, pair programming, TDD, micro services, cloud, ecc.
+
+- Sede di lavoro: Londra
+
+- Modalità di selezione: 
+Colloquio informale via telefono, 
+Test di programmazione - via remoto con lo schermo condiviso
+Incontro con il leadership team di Equal Experts a  Londra
+
+- Tipo cliente o settore: vario, molto probabilmente HMRC, per avere un’idea del cliente e della cultura: https://www.equalexperts.com/hmrc-digital-platform-as-a-club/
+
+**Technical Skills**
+
+* Java o Scala
+* TDD
+* Pair Programming
+
+---
+
+
 **Data:** 27/04/2016  
 **Company:** [aizoOn](https://www.aizoongroup.com)  
 **Location:** Torino  
