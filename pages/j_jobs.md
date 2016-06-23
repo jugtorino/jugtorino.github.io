@@ -14,6 +14,43 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Data:** 23/06/2016  
+**Company:** [Tecnositaf](http://www.tecnositaf.it/)  
+**Location:** Torino  
+**Title:** Software Engineer / Software Developer  
+**Contact:** <fulvio.baratta@tecnositaf.it>
+
+Tecnositaf, società che si occupa di integrazione di sistemi per il controllo e la mobilità in ambito stradale, ricerca sviluppatori con almeno 2 anni d'esperienza
+da inserire nel proprio team.
+
+**Job Description**  
+
+Il candidato ideale ha la capacità di integrarsi in un ambiente dinamico e possiede una buona padronanza del linguaggio Java. Ha spiccate abilità di problem solving e 
+un adeguato spirito di iniziativa.
+
+Le principali attività di sviluppo software previste sono:
+- realizzazione di gestionali standard
+- integrazione con dispositivi "a campo" - videocamere, sensori, segnaletica luminosa
+- realizzazione di sistemi di monitoraggio di impianti
+
+**Job Info**  
+- Conoscenze richieste: lingua inglese o francese
+- Sede di lavoro: Torino (+ eventuali trasferte)
+- Modalità di selezione: colloquio
+
+**Technical Skills**  
+- Java (JDK7)
+- JEE6 (JPA, EJB, JMS, ...)
+- Versioning: Git / GitLab
+- Build system: Maven
+- DB: Oracle / Postgresql
+- AS: Weblogic / Wildfly
+- SO: Linux
+- Testing: JUnit, Arquillian, Selenium
+ 
+
+---
+
 **Data:** 03/06/2016  
 **Company:** [EqualExperts](https://www.equalexperts.com)  
 **Location:** Londra  
