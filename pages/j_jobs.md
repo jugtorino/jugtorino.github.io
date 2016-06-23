@@ -29,16 +29,19 @@ Il candidato ideale ha la capacità di integrarsi in un ambiente dinamico e poss
 un adeguato spirito di iniziativa.
 
 Le principali attività di sviluppo software previste sono:
+
 - realizzazione di gestionali standard
 - integrazione con dispositivi "a campo" - videocamere, sensori, segnaletica luminosa
 - realizzazione di sistemi di monitoraggio di impianti
 
-**Job Info**  
+**Job Info**
+
 - Conoscenze richieste: lingua inglese o francese
 - Sede di lavoro: Torino (+ eventuali trasferte)
 - Modalità di selezione: colloquio
 
-**Technical Skills**  
+**Technical Skills**
+
 - Java (JDK7)
 - JEE6 (JPA, EJB, JMS, ...)
 - Versioning: Git / GitLab
@@ -48,7 +51,6 @@ Le principali attività di sviluppo software previste sono:
 - SO: Linux
 - Testing: JUnit, Arquillian, Selenium
  
-
 ---
 
 **Data:** 03/06/2016  
