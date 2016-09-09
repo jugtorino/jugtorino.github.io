@@ -76,3 +76,9 @@ Rick Kaepernick, father of [Colin Kaepernick](http://en.wikipedia.org/wiki/Colin
 
 Capt. Sullenberger: "Got any ideas ?"  
 1st Officer Skiles: "Actually not."
+
+----
+
+"I am very easy to please; I am happy to settle to perfection."
+
+[Marco Pierre White](https://en.wikipedia.org/wiki/Marco_Pierre_White)
