@@ -15,7 +15,7 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 ---
 
 **Data:** 09/09/2016  
-**Company:** [Almaviva](http://http://www.almaviva.it)
+**Company:** [Almaviva](http://www.almaviva.it)
 **Location:** Varie (e.g. Roma, Milano, Trento)
 **Title:** 2 Big Data Software Architect + 5 Application Integration Specialist
 **Contact:** <s.campitelli@almaviva.it>
