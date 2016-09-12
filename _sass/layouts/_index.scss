@@ -1,10 +1,28 @@
-// Header text feature
+.home-header {
+  @extend %padding-regular;
+  border-bottom: 1px solid $border-color;
+  .site-nav ul, .site-nav li {
+    float: none;
+  }
+  a {
+    color: $header-link-color;
+  }
+}
+
+.banner {
+  width: 100%;
+  text-align: center;
+  @media (max-width: 1000px) {
+    display: none;
+  }
+}
+
+// call out feature
 .call-out {
   @extend %padding-regular;
   display: inline-block;
   width: 100%;
-  background-color:$header-desc-background-color;
-  background-size: cover;
+  background: none repeat scroll 0 0 $header-desc-background-color;
   font-size: 1.2em;
   text-align: center;
   color: $header-desc-text-color;
@@ -12,12 +30,32 @@
 .call-out p:last-child {
   margin-bottom: 0;
 }
-// Post listing
+
+#greet {
+  margin: 2em 0 0 0;
+  text-align: center;
+}
+#greet img {
+  display: inline-block;
+  vertical-align: middle;
+  width: 200px;
+}
+#greet div {
+  display: inline-block;
+  vertical-align: middle;
+  color: #fc2;
+  background-color: #11a;
+  padding: 1em;
+  border-radius: 25px;
+}
+
+// post listing
 .posts {
   .post-teaser {
     @extend %padding-regular;
     width: 100%;
     margin-bottom: 0;
+    padding-bottom: 0;
     display: inline-block;
     background-size: $feature-image-size;
     border-bottom: 1px solid $border-color;
@@ -29,7 +67,7 @@
     margin-top: 1em;
   }
 }
-// Pagination
+// pagination
 .pagination .button {
   margin: 0 1.5em;
   i {
