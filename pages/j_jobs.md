@@ -15,13 +15,13 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 ---
 
 **Data:** 09/09/2016  
-**Company:** [Almaviva](http://www.almaviva.it)
-**Location:** Varie (e.g. Roma, Milano, Trento)
-**Title:** 2 Big Data Software Architect + 5 Application Integration Specialist
-**Contact:** <s.campitelli@almaviva.it>
-**Notes:** L'azienda ha diverse posizioni ulteriori oltre a quelle elencate qui, a vari livelli di esperienza, distribuite sul territorio
+**Company:** [Almaviva](http://www.almaviva.it)  
+**Location:** Varie (e.g. Roma, Milano, Trento)  
+**Title:** 2 Big Data Software Architect + 5 Application Integration Specialist  
+**Contact:** <s.campitelli@almaviva.it>  
+**Notes:** L'azienda ha diverse posizioni ulteriori oltre a quelle elencate qui, a vari livelli di esperienza, distribuite sul territorio  
 
-Per l’area IoT Solutions, Almaviva cerca le seguenti figure professionali:
+Per l'area IoT Solutions, Almaviva cerca le seguenti figure professionali:
 
 - 2 Big Data Software Architect:
 - 5 Application Integration Specialist:
@@ -39,7 +39,7 @@ I candidati avranno il compito di:
 Il team IoT Solutions di AlmavivA ha il compito di presidiare le tecnologie IoT e definire, progettare e 
 realizzare soluzioni e asset per i Clienti anche su percorsi di discontinuità tecnologica. 
 In particolar modo il Team offre soluzioni architetturali modulari, come la piattaforma GIoTTO e servizi 
-tecnologici innovativi grazie all’esperienza maturata nella realizzazione di progetti in vari settori: 
+tecnologici innovativi grazie all'esperienza maturata nella realizzazione di progetti in vari settori: 
 Smart City, Transportation e Logistica, Smart Energy, Industria 4.0, Smart Home, Sanità, Agrifood, Ambiente e Territorio.
 
 **Technical Skills**
@@ -49,8 +49,8 @@ Big Data Software Architect:
 - Esperienza 3-5 anni in sviluppo applicazioni Java in ambito Big Data.
 - Conoscenza di DB NoSQL, in particolare Cassandra ed Elasticsearch.
 - Buona esperienza nello sviluppo di applicazioni Java EE.
-- Esperienza nell’uso di una o più delle seguenti applicazioni: Spark Apache, H2O, Tensor Flow, IBM Watson.
-- Esperienza nell’utilizzo del file system distribuito HDFS.
+- Esperienza nell'uso di una o più delle seguenti applicazioni: Spark Apache, H2O, Tensor Flow, IBM Watson.
+- Esperienza nell'utilizzo del file system distribuito HDFS.
 - Esperienza nello sviluppo di sistemi basati su API RESTful.
 - Conoscenza dei linguaggi di programmazione in ambito Big Data: R, Python, Scala.
 
@@ -122,13 +122,13 @@ Offriamo lo sviluppo end-end di software su misura basato su tecnologie opensour
 - Tipo di contratto: a tempo indeterminato
 - Salario offerto: [email me]
 - Conoscenze richieste: lingua inglese, almeno un linguaggio di programmazione, preferibilmente su JVM, TDD, Agile
-- Ruolo da coprire e responsabilità: Sviluppatore all’interno di team agili, pair programming, TDD, micro services, cloud, ecc.
+- Ruolo da coprire e responsabilità: Sviluppatore all'interno di team agili, pair programming, TDD, micro services, cloud, ecc.
 - Sede di lavoro: Londra
 - Modalità di selezione: 
 Colloquio informale via telefono, 
 Test di programmazione - via remoto con lo schermo condiviso
 Incontro con il leadership team di Equal Experts a  Londra
-- Tipo cliente o settore: vario, molto probabilmente HMRC, per avere un’idea del cliente e della cultura: https://www.equalexperts.com/hmrc-digital-platform-as-a-club/
+- Tipo cliente o settore: vario, molto probabilmente HMRC, per avere un'idea del cliente e della cultura: https://www.equalexperts.com/hmrc-digital-platform-as-a-club/
 
 **Technical Skills**
 
@@ -145,15 +145,15 @@ Incontro con il leadership team di Equal Experts a  Londra
 **Title:** Front-end Developer & Designer  
 **Contact:** <giulia.zanon@aizoon.it>
 
-aizoOn, società di consulenza tecnologica innovativa, ricerca sviluppatori dinamici e motivati con la voglia di mettersi in gioco e operare su tecnologie di back end e front end nell’ambito dello sviluppo di un prodotto innovativo orientato alla Cyber Security.
+aizoOn, società di consulenza tecnologica innovativa, ricerca sviluppatori dinamici e motivati con la voglia di mettersi in gioco e operare su tecnologie di back end e front end nell'ambito dello sviluppo di un prodotto innovativo orientato alla Cyber Security.
 
 **Job Description**
 
-Il candidato ha maturato almeno tre anni di esperienza nel ruolo. La sua figura verrà integrata all’interno del team di sviluppo di un prodotto innovativo in ambito Security. In particolare si occuperò di:
+Il candidato ha maturato almeno tre anni di esperienza nel ruolo. La sua figura verrà integrata all'interno del team di sviluppo di un prodotto innovativo in ambito Security. In particolare si occuperò di:
 
 * progettare il design grafico delle nuove dashboard
 * rivedere le dashboard già esistenti
-* assicurare che la user experience sia agevole utilizzando i comuni dettami dell’usabilità delle interfacce
+* assicurare che la user experience sia agevole utilizzando i comuni dettami dell'usabilità delle interfacce
 * realizzare le soluzioni proposte utilizzando lo stack tecnologico di riferimento
 
 **Technical Skills**
@@ -172,16 +172,16 @@ La conoscenza dei framework Angular JS e Bootstrap è da considerarsi requisito 
 **Title:** Java Security Developer
 **Contact:** <giulia.zanon@aizoon.it>
 
-aizoOn, società di consulenza tecnologica innovativa, ricerca sviluppatori dinamici e motivati con la voglia di mettersi in gioco e operare su tecnologie di back end e front end nell’ambito dello sviluppo di un prodotto innovativo orientato alla Cyber Security.
+aizoOn, società di consulenza tecnologica innovativa, ricerca sviluppatori dinamici e motivati con la voglia di mettersi in gioco e operare su tecnologie di back end e front end nell'ambito dello sviluppo di un prodotto innovativo orientato alla Cyber Security.
 
 **Job Description**
 
 Il candidato ha maturato almeno tre anni di esperienza nel ruolo; si occuperà dello sviluppo back-end di un prodotto innovativo in ambito Cyber Security.
 
-*	realizzare servizi di tipo RESTFull per l’interfacciamento con il front-end
+*	realizzare servizi di tipo RESTFull per l'interfacciamento con il front-end
 *	analizzare e validare soluzioni di interfacciamento con sorgenti dati esterne
-*	sviluppare le logiche di back-end per il processamento delle informazioni ricevute dall’IDS di riferimento
-*	sviluppare le logiche di EAI per l’interfacciamento tra i sottosistemi componenti il prodotto
+*	sviluppare le logiche di back-end per il processamento delle informazioni ricevute dall'IDS di riferimento
+*	sviluppare le logiche di EAI per l'interfacciamento tra i sottosistemi componenti il prodotto
 *	supportare il team di sviluppo nella scelta delle corrette metodologie e strumenti per la realizzazione di applicazioni J2EE
 
 
@@ -281,7 +281,7 @@ Preferenziali (non richiesti ma graditi):
 
 **Job Description:**
 
-Be Team srl, nell’ambito del progetto di potenziamento della propria struttura è
+Be Team srl, nell'ambito del progetto di potenziamento della propria struttura è
 alla ricerca di personale qualificato per la posizione di:
 
 **JBoss System Administrator**
