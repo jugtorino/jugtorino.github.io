@@ -4,43 +4,46 @@ url: "http://jugtorino.it/" # the base hostname & protocol for your site
 exclude: ["CNAME", "README.md", "LICENSE"]
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: JUG Torino
   avatar: logo.jpg
   gravatar: # email md5 hash
   description: "Java & JVM User Group Torino" # used by search engines
-  
+
   # Header and footer text
   header_text:
-  footer_text: Based on the <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-  
+  header_text_feature_image:
+  footer_text: >
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+
   # Icons
   rss: false
-  email_address: # full email address, e.g. "sam@example.com"
+  email_address: # Full email address, e.g. "sam@example.com"
   behance:
-  bitbucket: 
-  dribbble: 
-  facebook: 
-  flickr: 
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
   github: "jugtorino"
-  google_plus: 
-  instagram: 
-  linkedin:  # full URL
-  pinterest: 
-  reddit: 
-  soundcloud: 
-  stack_exchange:  # full URL
-  steam: 
-  tumblr: 
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
   twitter: "@jugtorino"
-  wordpress: 
-  youtube: 
-  
+  wordpress:
+  youtube:
+
   # Scripts
-  google_analytics: # tracking id, e.g. "UA-000000-01"
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  
+  katex: false # Enable if using math markup
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
@@ -48,9 +51,13 @@ theme:
   str_next: "Next"
   str_prev: "Prev"
   str_continue_reading: "Continue reading"
-  
-  # Colors, typography and padding
+
+  # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+
+  # Post navigation
+  post_navigation: false
 
 # PAGINATION
 paginate: 5
@@ -62,3 +69,4 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
+gems: [jekyll-paginate]
