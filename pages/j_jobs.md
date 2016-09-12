@@ -14,6 +14,61 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Data:** 09/09/2016  
+**Company:** [Almaviva](http://www.almaviva.it)  
+**Location:** Varie (e.g. Roma, Milano, Trento)  
+**Title:** 2 Big Data Software Architect + 5 Application Integration Specialist  
+**Contact:** <s.campitelli@almaviva.it>  
+**Notes:** L'azienda ha diverse posizioni ulteriori oltre a quelle elencate qui, a vari livelli di esperienza, distribuite sul territorio  
+
+Per l'area IoT Solutions, Almaviva cerca le seguenti figure professionali:
+
+- 2 Big Data Software Architect:
+- 5 Application Integration Specialist:
+
+**Job Description**  
+
+I candidati avranno il compito di:
+
+- Analizzare, progettare e implementare applicazioni in ambito IoT e Progetti di Innovazione Tecnologica.
+- Valutare gli impatti e stimare l'impegno (in termini di tempi e costi) di realizzazione di nuove soluzioni.
+- Supportare negli aspetti di disegno e di definizione di scelte tecnologiche tenendo conto del contesto di applicazione.
+
+**Job Info**
+
+Il team IoT Solutions di AlmavivA ha il compito di presidiare le tecnologie IoT e definire, progettare e 
+realizzare soluzioni e asset per i Clienti anche su percorsi di discontinuità tecnologica. 
+In particolar modo il Team offre soluzioni architetturali modulari, come la piattaforma GIoTTO e servizi 
+tecnologici innovativi grazie all'esperienza maturata nella realizzazione di progetti in vari settori: 
+Smart City, Transportation e Logistica, Smart Energy, Industria 4.0, Smart Home, Sanità, Agrifood, Ambiente e Territorio.
+
+**Technical Skills**
+
+Big Data Software Architect:
+
+- Esperienza 3-5 anni in sviluppo applicazioni Java in ambito Big Data.
+- Conoscenza di DB NoSQL, in particolare Cassandra ed Elasticsearch.
+- Buona esperienza nello sviluppo di applicazioni Java EE.
+- Esperienza nell'uso di una o più delle seguenti applicazioni: Spark Apache, H2O, Tensor Flow, IBM Watson.
+- Esperienza nell'utilizzo del file system distribuito HDFS.
+- Esperienza nello sviluppo di sistemi basati su API RESTful.
+- Conoscenza dei linguaggi di programmazione in ambito Big Data: R, Python, Scala.
+
+Application Integration Specialist:
+
+- Esperienza 5-7 nello sviluppo di applicazioni Java EE.
+- Esperienza nello sviluppo di sistemi basati su API RESTful.
+- Conoscenza di database relazionali e no-SQL.
+- Progettazione di sistemi Web Oriented (dal Data Base, al Layer di BusinessLogic, al middle tier dei Front End Processor, al Front End Web).
+- Buona conoscenza di piattaforme di Integrazione Software: ESB/BPM, Message-Oriented Middleware (ActiveMQ, RabbitMQ).
+- Costituiscono titolo preferenziale la conoscenza di
+    - Node.js e Angular.js.
+    - Piattaforme cartografiche.
+    - Tecnologie e architetture IoT.
+    - Architetture OSGi.
+
+---
+
 **Data:** 23/06/2016  
 **Company:** [Tecnositaf](http://www.tecnositaf.it/)  
 **Location:** Torino  
