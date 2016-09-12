@@ -4,7 +4,7 @@ url: "http://jugtorino.it/" # the base hostname & protocol for your site
 exclude: ["CNAME", "README.md", "LICENSE"]
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: JUG Torino
   avatar: logo.jpg
