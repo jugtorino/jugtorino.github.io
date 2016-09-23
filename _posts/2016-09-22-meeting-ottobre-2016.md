@@ -24,7 +24,9 @@ Presso [Consoft](/places/consoft/)
 
 #### Come faccio a partecipare ?
 
-La partecipazione è aperta a tutti, previa *registrazione* (ci serve per sapere quanti saremo)
+La partecipazione è aperta a tutti, previa *registrazione* (ci serve per sapere quanti saremo).
+Inserisci qui il tuo nome e cognome:
+
 <form action="https://formspree.io/ro.franchini+jug102016@gmail.com" method="POST">
     <input type="text" name="name">
     <input type="hidden" name="_subject" value="JUG Torino Meeting Ottobre 2016" />
@@ -32,6 +34,7 @@ La partecipazione è aperta a tutti, previa *registrazione* (ci serve per sapere
     <input type="hidden" name="_next" value="/registered" />
     <input type="submit" value="Invia">
 </form>
+
 
 [Iscriviti](/subscribe/) alla mailing list del JUG Torino per venire a conoscenza degli eventi.
 
