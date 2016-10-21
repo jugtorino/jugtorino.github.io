@@ -9,6 +9,8 @@ Il talk vuole presentare alcune caratteristiche peculiari di OrientDB, che si è
 Nello specifico parleremo della capacità di OrientDB di effettuare ricerche testuali e geospaziali, non tralasciando una demo con dati reali.
 Come bonus track verrà illustrato il codice utilizzato per la demo.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fT3QdlfRJ6U" frameborder="0" allowfullscreen></iframe>
+
 #### Quando ?
 
 <u>5 Ottobre 2016</u>
