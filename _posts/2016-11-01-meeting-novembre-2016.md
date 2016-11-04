@@ -5,7 +5,7 @@ title: Meeting Novembre 2016
 
 16 Novembre 2016 - **Come Usare CompletableFuture** - [Simone Bordet](/people/simonebordet/)
 
-Il meeting tratterà `java.util.CompletableFuture`, introdotto nel JDK 8,
+Il meeting tratterà `java.util.concurrent.CompletableFuture`, introdotto nel JDK 8,
 e di come questa classe possa essere usata nel vostro codice e nel
 design delle vostre API; e di come evitare le *pitfalls* legate al suo 
 utilizzo.
