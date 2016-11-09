@@ -14,6 +14,28 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 09/11/2016  
+**Company:** [Herzum Software](http://www.herzum.com)  
+**Location:** Torino  
+**Title:** Junior Java Developer  
+**Contact:** <sergio.cuniolo@herzum.com>  
+
+Herzum Software – [http://www.herzum.com](http://www.herzum.com) – cerca un Junior Java Developer da  inserire
+nel proprio team che lavora presso un importante cliente nella zona di Torino.
+
+Il candidato ideale 
+
+- ama lavorare in team e mantiene buoni rapporti con i colleghi
+- è curioso ed appassionato di nuove tecnologie
+- conosce – oltre a Java – uno o più strumenti per lo sviluppo di  soluzioni web (javascript,  jQuery, CSS, Groovy …)
+- ha una buona conoscenza della lingua inglese
+- è disponibile a viaggiare
+
+Herzum Software è un Atlassian Platinum Partner; una precedente esperienza con i tool Atlassian 
+è un plus ma non un requisito.
+
+---
+
 **Data:** 09/09/2016  
 **Company:** [Almaviva](http://www.almaviva.it)  
 **Location:** Varie (e.g. Roma, Milano, Trento)  
