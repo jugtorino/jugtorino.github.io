@@ -3,7 +3,7 @@ layout: post
 title: Meeting Dicembre 2016
 ---
 
-5 Dicembre 2016 - **Kotlin: introduzione e live coding** - Roberto Franchini
+21 Dicembre 2016 - **Kotlin: introduzione e live coding** - Roberto Franchini
 
 [Kotlin](https://kotlinlang.org/) e' un liguaggio di programmazione tipato staticamenteper JVM, totalmente interoperabile con Java
 Dopo una breve introduzione al linguaggio, ci immergeremo in una sessione di live coding dove faremo crescere una piccola applicazione demo, focalizzandoci sulla interoperabilita' con Java.
