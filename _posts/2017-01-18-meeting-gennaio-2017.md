@@ -3,7 +3,7 @@ layout: post
 title: Meeting Gennaio 2017
 ---
 
-18 Gennaio 2017 - **One microservice way - Episode 1 - The manual way w/ rabbitmq** - Federico Fissore
+25 Gennaio 2017 - **One microservice way - Episode 1 - The manual way w/ rabbitmq** - Federico Fissore
 
 Mentre i "microservice" smettono di essere una buzzword, cresce il numero di tool e framework a disposizione per implementarli. Quale usare?
 
@@ -11,7 +11,7 @@ In questo talk verrà mostrata un'implementazione "manuale", basata su rabbitmq,
 
 #### Quando ?
 
-<u>18 Gennaio 2017</u>
+<u>25 Gennaio 2017</u>
 
 * 18:30 - Check-in
 * 18:45 - Benvenuto e aggiornamenti
