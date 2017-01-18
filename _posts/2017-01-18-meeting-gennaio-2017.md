@@ -5,9 +5,9 @@ title: Meeting Gennaio 2017
 
 18 Gennaio 2017 - **One microservice way - Episode 1 - The manual way w/ rabbitmq** - Federico Fissore
 
-Mentre i "microservice" smetteno di essere una buzzword, cresce il numero di tool e framework a disposizione per implementarli. Quale usare?
+Mentre i "microservice" smettono di essere una buzzword, cresce il numero di tool e framework a disposizione per implementarli. Quale usare?
 
-In questo talk verrà mostrata un'implementazione "manuale", basata su rabbitmq, come l'ho usata in Thingle.me. Ci sarà più codice che slide. Alla fine del talk, sceglieremo quale tool o framework presentare al prossimo meeting.
+In questo talk verrà mostrata un'implementazione "manuale", basata su rabbitmq, come l'ho usata in [Thingle.me](https://thingle.me/). Ci sarà più codice che slide. Alla fine del talk, sceglieremo quale tool o framework presentare al prossimo meeting.
 
 #### Quando ?
 
