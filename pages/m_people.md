@@ -8,3 +8,4 @@ permalink: /people/
 - [Roberto Franchini](robertofranchini/)
 - [Simone Bordet](simonebordet/)
 - [Luigi R. Viggiano](luigiviggiano/)
+- [Federico Fissore](federicofissore/)
