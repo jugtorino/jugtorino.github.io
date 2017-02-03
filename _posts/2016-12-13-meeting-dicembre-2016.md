@@ -8,6 +8,7 @@ title: Meeting Dicembre 2016
 [Kotlin](https://kotlinlang.org/) e' un liguaggio di programmazione tipato staticamenteper JVM, totalmente interoperabile con Java
 Dopo una breve introduzione al linguaggio, ci immergeremo in una sessione di live coding dove faremo crescere una piccola applicazione demo, focalizzandoci sulla interoperabilita' con Java.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/tXv-8GHmX-U/hqdefault.jpg)](https://www.youtube.com/watch?v=tXv-8GHmX-U)
 
 #### Quando ?
 

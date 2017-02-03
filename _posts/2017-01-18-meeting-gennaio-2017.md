@@ -9,6 +9,8 @@ Mentre i "microservice" smettono di essere una buzzword, cresce il numero di too
 
 In questo talk verrà mostrata un'implementazione "manuale", basata su rabbitmq, come l'ho usata in [Thingle.me](https://thingle.me/). Ci sarà più codice che slide. Alla fine del talk, sceglieremo quale tool o framework presentare al prossimo meeting.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/2PpTqBQjbDo/hqdefault.jpg)](https://www.youtube.com/watch?v=2PpTqBQjbDo)
+
 #### Quando ?
 
 <u>25 Gennaio 2017</u>
