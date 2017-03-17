@@ -14,6 +14,26 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 16/03/2017  
+**Company:** [IrisCube Reply](http://iriscube.reply.eu)  
+**Location:** Torino, Milano  
+**Title:** Senior Developer, Technical Analyst  
+**Contact:** <iriscube.recruitment@reply.it>  
+ 
+IrisCube Reply, società del gruppo Reply focalizzata sulla multicanalità in ambito financial institution, propone soluzioni innovative che supportino la relazione banca/assicurazione con il cliente finale attraverso l’utilizzo di nuove tecnologie. Tematiche quali l’ottimizzazione dei canali digitali, la vendita self e a distanza di prodotti e servizi, piattaforme per la consulenza a pagamento, visualizzazione dinamica dei dati, l’interazione remota con il cliente sono alcune delle aree di specializzazione. Elemento fondante della società è la continua ricerca di soluzioni tecnologiche innovative capaci di soddisfafre i nuovi bisogni dei clienti.
+
+In questo contesto, IrisCube Reply ricerca candidati con esperienza (almeno 3 anni), con titolo preferenziale in ambito Banking.
+L'ambito lavorativo prevederà attività di analisi tecnica, supporto ai team di analisi funzionale, progettazione tecnica, pianificazione, gestione di piccoli team di sviluppo, consegna del software prodotto con elevati standard di qualità.
+
+Requisiti:
+- Laurea in Informatica o Ingegneria Informatica (o percorsi equivalenti) con alto voto di laurea
+- Profonde competenze tecniche in alcuni di questi ambiti: JavaEE, tecnologie di frontend (Angular.js, jQuery, etc.), Mobile platforms (Android, iOS), Architetture Enterprise, Big Data
+- Attitudine al problem solving, autonomia e responsabilità professionale
+- Ottima capacità di lavoro in team e organizzazione
+- Passione per la tecnologia e l'innovazione
+
+---
+
 **Date:** 09/11/2016  
 **Company:** [Herzum Software](http://www.herzum.com)  
 **Location:** Torino  
