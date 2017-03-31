@@ -17,7 +17,7 @@ After drilling through the analyzer itself, we'll discover the tools setup for d
 
 * 18:30 - Check-in
 * 18:45 - Benvenuto e aggiornamenti
-* 19:00 - **One Microservice Way - Episode 2 - The spring way w/ spring cloud** - Federico Fissore
+* 19:00 - **Code Quality Analyzer: Sonar Internals and Best Practices** - Carlo Bottiglieri
 * 20:30 - Pizza
 
 #### Dove ?
