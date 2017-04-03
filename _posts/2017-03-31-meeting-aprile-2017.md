@@ -5,11 +5,15 @@ title: Meeting Aprile 2017
 
 13 Aprile 2017 - **Code Quality Analyzer: Sonar Internals and Best Practices** - Carlo Bottiglieri
 
-SonarQube and SonarLint are the leading applications for Code Quality management.
+Come funzionano gli analizzatori di codice piu' avanzati in SonarSource e come li si usa per trovare dei bug.
 
-How do the underlying code analyzers work? What kind of analysis they perform on source code and how can they provide hints on tricky bugs?
+* Introduzione alla struttura interna di un analizzatore, i vari livelli di analisi del codice e come si usano per definire le regole.
+* Gli strumenti attorno agli analizzatori di codice di SonarSource : SonarLint, Sonar Scanner e SonarQube.
+* In fine, alcuni setup interessanti per gruppi di lavoro di varie denominazioni.
 
-After drilling through the analyzer itself, we'll discover the tools setup for different environments.
+"Unit" testing di un analizzatore
+
+* Fare test-first, o addirittura TDD su un analizzatore di codice e' un po' particolare. Abbiamo creato due strumenti principali per farlo, uno per testare a livello di regole e uno a livello del motore di esecuzione simbolica.
 
 #### Quando ?
 
