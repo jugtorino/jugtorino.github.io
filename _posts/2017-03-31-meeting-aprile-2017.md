@@ -15,6 +15,8 @@ Come funzionano gli analizzatori di codice piu' avanzati in SonarSource e come l
 
 * Fare test-first, o addirittura TDD su un analizzatore di codice e' un po' particolare. Abbiamo creato due strumenti principali per farlo, uno per testare a livello di regole e uno a livello del motore di esecuzione simbolica.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/pWwlzZsS5lU/hqdefault.jpg)](https://www.youtube.com/watch?v=pWwlzZsS5lU)
+
 #### Quando ?
 
 <u>13 Aprile 2017</u>
