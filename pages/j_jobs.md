@@ -14,6 +14,43 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 21/04/2017  
+**Company:** NICE, an Amazon Web Services company  
+**Location:** Asti, Cagliari  
+**Title:** Jr. and Sr. level Software Development Engineers  
+**Contact:** Please apply directly here https://www.amazon.jobs/en/jobs/517668 and one of our recruiters will be in touch with next steps.  
+**Notes:** For more information <andrea.curtoni@nice-software.com> or <paolo.maggi@nice-software.com>  
+
+**Job Description** https://aws.amazon.com/careers/aws-milan-event/  
+NICE is an AWS subsidiary focused on High Performance Computing and remote visualization technologies for the technical computing market. Being part of a small and international team, you will be involved in all aspects of development: from creating elegant designs to developing effective code that solves real customer needs. You will work with a diverse range of people.
+
+There will be plenty of opportunity to get involved with new technologies and work on different components of the solution, or, if you prefer, to become expert in a particular area. Either way, there will be always something new to learn. We just ask you to be highly passionate and motivated and willing to make a significant contribution to our products. Your talent and passion can make a big difference.
+
+In addition, as member of the NICE R&D team you will part of the bigger family of Amazon EC2 and its world-class team.
+
+We have open positions on three R&D teams in NICE: Elastic GPUs, DCV and EnginFrame.
+As part of the Elastic GPUs team you will help develop innovative technologies for running high-end 3D and GPGPU applications on the cloud.
+Working with the DCV team, you will contribute to the success of our high-performance and cloud-oriented remote desktop technology.
+If you are passionate about HPC and strive to make HPC more user friendly, the EnginFrame team is the right place for you.
+
+**Basic Qualifications**
+- Bachelor's degree in Computer Science or Engineering, or equivalent experience
+- Minimum 4+ years of software development experience
+- Minimum 4+ years of object-oriented design or object-oriented programming experience
+
+**Preferred Qualifications**
+- Computer Science fundamentals in data structures, problem solving, algorithm design and analysis
+- Expert skill in at least one of the following programming languages: C, C++, C#, or Java. Proficiency with one other programming language and with a scripting technology like powershell, sh/bash or Python.
+- Experience with both Windows and Linux.
+- Experience building complex software systems that have been successfully delivered to customers.
+- Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+- Ability to take a project from scoping requirement through actual launch of the project
+- Strong distributed systems and web services design and implementation experience
+- For DCV and EnginFrame teams: Knowledge of HTML, XML, CSS and Javascript.
+- For Elastic GPUs team: Experience with a GPU API such as OpenGL, Direct3D, Vulkan, OpenCL and/or CUDA.
+
+---
+
 **Date:** 16/03/2017  
 **Company:** [IrisCube Reply](http://iriscube.reply.eu)  
 **Location:** Torino, Milano  
