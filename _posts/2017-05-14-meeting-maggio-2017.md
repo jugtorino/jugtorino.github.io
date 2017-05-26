@@ -10,6 +10,8 @@ Avete mai sentito l'esigenza di lavorare con grandi moli di "asynchronous stream
 
 Simone Bordet, Java Chamption, illustrerà come usare Reactive Streams, il tentativo di standardizzare questa esigenza in ambito Java, Javascript e Networking.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/0GUlmEiykDY/hqdefault.jpg)](https://www.youtube.com/watch?v=0GUlmEiykDY)
+
 #### Quando ?
 
 <u>24 Maggio 2017</u>
