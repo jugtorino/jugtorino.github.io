@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting Maggio 2017
+title: Meeting Giugno 2017
 ---
 
 21 Giugno 2017 - **Reactive, Twitter & OrientDB** - Roberto Franchini
