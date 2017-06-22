@@ -12,6 +12,8 @@ Un file vuoto da riempire linea dopo linea, utilizzando RxJava ed OrientDB.
 
 E Kotlin a legare il tutto.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/9MUwnRV8lE0/hqdefault.jpg)](https://www.youtube.com/watch?v=9MUwnRV8lE0)
+
 #### Quando ?
 
 <u>21 Giugno 2017</u>
