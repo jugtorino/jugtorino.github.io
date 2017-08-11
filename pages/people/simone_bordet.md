@@ -82,3 +82,9 @@ Capt. Sullenberger: "Got any ideas ?"
 "I am very easy to please; I am happy to settle to perfection."
 
 [Marco Pierre White](https://en.wikipedia.org/wiki/Marco_Pierre_White)
+
+----
+
+"It's the non-cognitive skills (hard work, courage, self-discipline) that sets you apart from everybody else; and that's what it's all about."
+
+[David Goggins](https://www.youtube.com/watch?v=oIrT1eHs1b0)
