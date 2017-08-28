@@ -20,7 +20,7 @@ Occasione fantastica per incontrare esperti mondiali di JavaFX, JEE e JVM Perfor
 
 #### Dove ?
 
-Presso [Toolbox Office](/places/toolbox/).
+Presso [Toolbox](/places/toolbox/).
 
 #### Come faccio a partecipare ?
 
