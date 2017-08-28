@@ -20,13 +20,13 @@ Occasione fantastica per incontrare esperti mondiali di JavaFX, JEE e JVM Perfor
 
 #### Dove ?
 
-Presso [Toolbox Office](/places/toolbox/)
+Presso [Toolbox Office](/places/toolbox/).
 
 #### Come faccio a partecipare ?
 
 La partecipazione è aperta a tutti, previa *registrazione* (ci serve per sapere quanti saremo).
 
-Registratevi su meetup https://www.meetup.com/JUGTorino/events/240288374/
+[Registratevi su meetup](https://www.meetup.com/JUGTorino/events/240288374/).
 
 [Iscriviti](/subscribe/) alla mailing list del JUG Torino per venire a conoscenza degli eventi.
 
