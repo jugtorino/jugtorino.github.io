@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Java 9 - Part1: New Features (Not Jigsaw Modules)
+title: Meeting Novembre 2017
 ---
+
+15 Novembre 2017 - **Java 9 - Part 1: New Features (Not Jigsaw Modules)**
 
 Java 9 è finalmente disponibile e porta con sé tantissime novità (91 JEPs) !
 
@@ -10,7 +12,7 @@ In questa sessione vedremo le novità principali di Java 9, escludendo il sistem
 Gli argomenti di cui si parlerà saranno:
 
 * jshell (l'interfaccia REPL)
-*  compilatore ahead-of-time (AOTC)
+* compilatore ahead-of-time (AOTC)
 * garbage collector G1 (promosso a GC di default)
 * miglioramenti al tool javadoc
 * multi-release jars
