@@ -49,5 +49,5 @@ La partecipazione è aperta a tutti, previa *registrazione* (ci serve per sapere
 La [mailing list](https://groups.yahoo.com/groups/it-torino-java-jug) è il riferimento principale,
 la puoi consultare anche online se sei già iscritto.
 
-Puoi contattare [Robert Franchini](/people/robertofrachini/).
+Puoi contattare [Robert Franchini](/people/robertofranchini/).
 
