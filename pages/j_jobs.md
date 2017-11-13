@@ -14,6 +14,35 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 13/11/2017  
+**Company:** [im3D S.p.A](http://www.i-m3d.com/it/)  
+**Location:** Torino
+**Title:** Analista programmatore Java  
+**Contact:** <hr@i-m3d.com>
+
+**Job Description**
+
+Inserimento in un team per il design, sviluppo, deploy e manutenzione di una piattaforma web-based con architettura client/server per la gestione dell'iter clinico di pazienti da utilizzare in servizi innovativi di prevenzione.
+
+Requisiti:
+
+- Laurea in materie scientifiche
+- Solide competenze informatiche
+- Java con speciale attenzione all'ambito web (architetture e framework web: J2EE , Architetture Service Oriented , web   services, sicurezza)
+- Competenze di database design , SQL e del framework Hibernate
+- Competenze di analisi dei requisiti e design Object Oriented
+- Gradita la conoscenza di linguaggi di scripting (preferibilmente Python e Bash )
+- Competenze di software engineering
+- Conoscenza del sistema operativo Linux
+- Eccellenti capacità personali di problem solving , lavoro in gruppo , organizzazione , visione di insieme e concretezza
+- Desiderio di misurarsi con sfide nuove ogni giorno
+
+Costituiscono elementi preferenziali una precedente esperienza nel settore IT in campo healthcare (specialmente con i protocolli DICOM e HL7), la conoscenza della lingua inglese , la conoscenza di C++ ed in particolare GTK, QT, OpenGL, grafica 2D e 3D
+
+Contratto di lavoro: Tempo determinato 
+
+---
+
 **Date:** 21/04/2017  
 **Company:** NICE, an Amazon Web Services company  
 **Location:** Asti, Cagliari  
