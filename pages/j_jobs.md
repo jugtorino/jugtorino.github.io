@@ -41,7 +41,6 @@ Costituiscono elementi preferenziali una precedente esperienza nel settore IT in
 
 Contratto di lavoro: Tempo determinato 
 
-
 ---
 
 **Date:** 21/04/2017  
