@@ -16,7 +16,7 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 **Date:** 13/11/2017  
 **Company:** [im3D S.p.A](http://www.i-m3d.com/it/)  
-**Location:** Torino
+**Location:** Torino  
 **Title:** Analista programmatore Java  
 **Contact:** <hr@i-m3d.com>
 
