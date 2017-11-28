@@ -3,7 +3,7 @@ layout: post
 title: Meeting Dicembre 2017
 ---
 
-13 Novembre 2017 - **Java 9 - Part 2: Jigsaw Modules**
+13 Dicembre 2017 - **Java 9 - Part 2: Jigsaw Modules**
 
 Java 9 è finalmente disponibile e la novità più grande sono i moduli Jigsaw.
 
