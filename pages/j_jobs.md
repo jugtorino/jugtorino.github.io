@@ -14,6 +14,90 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 02/12/2017  
+**Company:** [ATS S.p.A] (http://www.atscom.it)  
+**Location:** Milano  
+**Title:** Java Senior Software Engineer   
+**Contact:** <marcello.mannino@atscom.it>
+
+ATS - Advanced Technology Systems (http://www.atscom.it) è una realtà in costante crescita e sempre alla ricerca di persone valide da inserire nei propri gruppi di lavoro.
+
+**Job Description**
+
+Posizione: Java Senior Software Engineer 
+
+Il candidato ideale ha la capacità di integrarsi in un ambiente strutturato e possiede una buona padronanza del linguaggio Java. 
+Ha spiccate abilità di problem solving, capacità di organizzazione e di lavoro in gruppo e un adeguato spirito di iniziativa.
+
+Le principali attività previste sono:
+- analisi dei requisiti e della fattibilità di nuove implementazioni 
+- progettazione e implementazione delle soluzioni
+- diagnosi di anomalie di sistemi in produzione
+
+**Job Info**
+- Sede di lavoro: Milano
+- Contratto di lavoro: consulenza
+- Retribuzione: €250-€300 al giorno
+- Modalità di selezione: colloquio via Skype
+
+**Technical Skills**
+- solide competenze informatiche generali
+- ottima conoscenza del linguaggio Java
+- buona conoscenza di architetture e framework Java/J2EE
+- ottima conoscenza di Web Services, RESTful services
+- ottima conoscenza di disegno di database e del linguaggio SQL 
+
+**Preferred Qualifications**
+- familiarità con sistema operativo Linux e con scripting Bash
+- conoscenza del linguaggio Javascript e del framework AngularJS
+- conoscenza del linguaggio Scala e dei framework Akka e Play
+
+Per candidarvi o richiedere ulteriori informazioni, scrivete a marcello.mannino@atscom.it.
+
+---
+
+**Date:** 02/12/2017  
+**Company:** [ATS S.p.A] (http://www.atscom.it)  
+**Location:** Milano  
+**Title:** Database/Java Senior Developer  
+**Contact:** <marcello.mannino@atscom.it>
+
+ATS - Advanced Technology Systems (http://www.atscom.it) è una realtà in costante crescita e sempre alla ricerca di persone valide da inserire nei propri gruppi di lavoro.
+
+**Job Description**
+
+Posizione: Database/Java Senior Developer
+
+Il candidato ideale ha la capacità di integrarsi in un ambiente strutturato e ha esperienza di lavoro pluriennale su database relazionali in progetti enterprise. 
+Ha abilità di problem solving, capacità di lavoro in gruppo e un adeguato spirito di iniziativa.
+
+Le principali attività previste sono:
+- progettazione di database relazionali 
+- ottimizzazione delle performance
+- reporting schedulati e on demand
+- migrazione di dati anche tra sistemi eterogenei
+
+**Job Info**
+- Sede di lavoro: Milano
+- Contratto di lavoro: consulenza
+- Retribuzione: €220-€280 al giorno
+- Modalità di selezione: colloquio via Skype
+
+**Technical Skills**
+- solide competenze informatiche generali
+- ottima conoscenza di linguaggio SQL e di linguaggi per stored procedure 
+- buona conoscenza di tecniche e strumenti di reporting (es. Jasper Reports, BIRT o altro)
+- conoscenza del linguaggio Java
+
+**Preferred Qualifications**
+- familiarità con sistema operativo Linux e con scripting Bash
+- conoscenza di architetture e framework Java/J2EE
+- conoscenza di Web Services, RESTful services
+
+Per candidarvi o richiedere ulteriori informazioni, scrivete a marcello.mannino@atscom.it.
+
+---
+
 **Date:** 13/11/2017  
 **Company:** [im3D S.p.A](http://www.i-m3d.com/it/)  
 **Location:** Torino  
