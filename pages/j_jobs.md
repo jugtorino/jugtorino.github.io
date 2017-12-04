@@ -15,7 +15,7 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 ---
 
 **Date:** 02/12/2017  
-**Company:** [ATS S.p.A] (http://www.atscom.it)  
+**Company:** [ATS S.p.A](http://www.atscom.it)  
 **Location:** Milano  
 **Title:** Java Senior Software Engineer   
 **Contact:** <marcello.mannino@atscom.it>
@@ -57,7 +57,7 @@ Per candidarvi o richiedere ulteriori informazioni, scrivete a marcello.mannino@
 ---
 
 **Date:** 02/12/2017  
-**Company:** [ATS S.p.A] (http://www.atscom.it)  
+**Company:** [ATS S.p.A](http://www.atscom.it)  
 **Location:** Milano  
 **Title:** Database/Java Senior Developer  
 **Contact:** <marcello.mannino@atscom.it>
