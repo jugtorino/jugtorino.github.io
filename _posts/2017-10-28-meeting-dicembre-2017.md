@@ -27,7 +27,7 @@ Un Meetup indispensabile per chiunque stia considerando l'upgrade a Java 9.
 
 #### Dove ?
 
-Presso [Profesia](/places/toolbox/).
+Presso [Toolbox](/places/toolbox/).
 
 #### Come faccio a partecipare ?
 
