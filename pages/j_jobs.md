@@ -14,6 +14,20 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 05/01/2018  
+**Company:** [Engage Technology Partners](https://www.engagetech.com/)  
+**Location:** Remote  
+**Title:** Senior Java Engineer   
+**Contact:** <federico@fissore.org>
+
+Engage builds software to make the process of finding, hiring, managing and paying temporary workers painless. Our software is making waves in the UK recruitment industry and we’re growing our team so that we can get our products into the hands of more people, faster.
+
+Il resto della job description lo potete trovare su https://engagetech.workable.com/jobs/633829
+
+Se volete qualche informazione in più, contattatemi via email
+
+---
+
 **Date:** 02/12/2017  
 **Company:** [ATS S.p.A](http://www.atscom.it)  
 **Location:** Milano  
