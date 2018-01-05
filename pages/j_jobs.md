@@ -22,7 +22,7 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 Engage builds software to make the process of finding, hiring, managing and paying temporary workers painless. Our software is making waves in the UK recruitment industry and we’re growing our team so that we can get our products into the hands of more people, faster.
 
-Il resto della job description lo potete trovare su https://engagetech.workable.com/jobs/633829
+Il resto della job description lo potete trovare su [https://engagetech.workable.com/jobs/633829](https://engagetech.workable.com/jobs/633829)
 
 Se volete qualche informazione in più, contattatemi via email
 
