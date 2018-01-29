@@ -11,9 +11,12 @@ Vi piacerebbe creare subito una applicazione basata su microservizi.
 E perche' no, tutta l'infrastruttura di testing, compresi i test di performance.
 La deadline e' l'ora di pranzo.
 
-#### Chi?
+#### Speaker
 
-Roberto Franchini
+Roberto Franchini è uno dei coordinatori del JUG Torino.
+Appassionato di programmazione fin da ragazzino, non riesce a smettere.
+CTO (con le mani nel codice) di ArcadeAnalytics, startup che sviluppa un tool di data visualization per graph databases, ha lavorato in precedenza per OrientDB come tech-lead degli indici full-text e geospaziali.
+In passato è stato Senior Software engineer per CELI, dove si è occupato di semantic computing su bigData/fastData, enterprise semantic search e applicazioni distribuite.
 
 #### Quando?
 
@@ -21,7 +24,7 @@ Roberto Franchini
 
 * 18:30 - Check-in
 * 18:45 - Benvenuto e aggiornamenti
-* 19:00 - **JHipster: dall'idea alla macchinetta del caffé al deploy prima di pranzo**
+* 19:00 - **JHipster: dall'idea alla macchinetta del caffè al deploy prima di pranzo**
 * 21:30 - Pizza
 
 #### Dove ?
