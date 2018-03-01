@@ -14,6 +14,33 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 01/03/2018  
+**Company:** [Finance Evolution S.r.l.](http://www.finance-evolution.it)  
+**Location:** Torino  
+**Title:** Java Junior Software Developer   
+**Contact:** <ivan.martoccia@finance-evolution.com>
+
+**Job Description**
+
+Posizione: Java Junior Developer
+
+Finance Evolution è alla ricerca di nuove risorse da integrare nel suo organico. Cerchiamo sviluppatori anche con pochi anni di 
+esperienza che abbiano voglia di crescere ed imparare in un ambiente giovane e dinamico. 
+
+**Job Info**
+- Sede di lavoro: Torino
+- Modalità di selezione: Colloquio
+
+**Technical Skills**
+- Esperienza di sviluppo Java di circa 1/2 anni 
+- buona conoscenza di architetture e framework Java/J2EE
+- conoscenza ( anche base ) di Web Services, RESTful services ( non strettamente necessario )
+- buona conoscenza del linguaggio SQL 
+
+Per candidarvi o richiedere ulteriori informazioni, scrivete a ivan.martoccia@finance-evolution.com
+
+---
+
 **Date:** 05/01/2018  
 **Company:** [Engage Technology Partners](https://www.engagetech.com/)  
 **Location:** Remote  
