@@ -9,6 +9,18 @@ Il giro a tappe europeo di un gruppo di Java Champions (Andres Almiray, Sebastia
 
 Occasione fantastica per incontrare esperti mondiali di JavaFX, JEE e JVM Performance Tuning. In inglese.
 
+Tuning the G1GC
+
+[![Tuning the G1GC](https://i.ytimg.com/vi/IEojb7dYifw/hqdefault.jpg)](https://www.youtube.com/watch?v=IEojb7dYifw)
+
+Java Libraries you can't affort to miss
+
+[![Java Libraries you can't affort to miss](https://i.ytimg.com/vi/xZOK_6kdS-k/hqdefault.jpg)](https://www.youtube.com/watch?v=xZOK_6kdS-k)
+
+CQRS with Java
+
+[![Tuning the G1GC](https://i.ytimg.com/vi/lvh7CujrOow/hqdefault.jpg)](https://www.youtube.com/watch?v=lvh7CujrOow)
+
 #### Quando ?
 
 <u>19 Settembre 2017</u>

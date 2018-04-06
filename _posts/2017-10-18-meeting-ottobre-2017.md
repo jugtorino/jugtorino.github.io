@@ -9,6 +9,8 @@ Paolo Platter is the CTO of Agile Lab, a fast growing big data start up. He is a
 
 Il talk sarà in italiano.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/4ZgA3VD77jk/hqdefault.jpg)](https://www.youtube.com/watch?v=4ZgA3VD77jk)
+
 #### Quando ?
 
 <u>18 Ottobre 2017</u>
