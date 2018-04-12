@@ -16,6 +16,8 @@ Infine vedremo come JavaParser possa essere usato per generare nuovo codice Java
 Ad esempio per evitarci di scrivere codice ripetitivo a mano o per transpilare un DSL in codice Java.
 Queste sono alcune idee su come usare JavaParser, in attesa di discuterne insieme e raccogliere idee su come evolvere questa libreria.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/cGjiKf-dDD4/hqdefault.jpg)](https://www.youtube.com/watch?v=cGjiKf-dDD4)
+
 #### Chi?
 
 Federico Tomassetti ha ottenuto un dottorato in Language Engineering dal Politecnico di Torino.

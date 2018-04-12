@@ -11,6 +11,8 @@ Vi piacerebbe creare subito una applicazione basata su microservizi.
 E perche' no, tutta l'infrastruttura di testing, compresi i test di performance.
 La deadline e' l'ora di pranzo.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/rMrqSPEseD8/hqdefault.jpg)](https://www.youtube.com/watch?v=rMrqSPEseD8)
+
 #### Speaker
 
 Roberto Franchini è uno dei coordinatori del JUG Torino.
