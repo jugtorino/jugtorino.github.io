@@ -23,6 +23,8 @@ Vedremo anche i problemi più comuni (e ce ne sono tanti) che si possono incontr
 
 Un Meetup indispensabile per chiunque stia considerando l'upgrade a Java 9.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/fUNHZywbE4Y/hqdefault.jpg)](https://www.youtube.com/watch?v=fUNHZywbE4Y)
+
 #### Quando ?
 
 <u>15 Novembre 2017</u>

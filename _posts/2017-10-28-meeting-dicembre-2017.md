@@ -16,6 +16,8 @@ Gli argomenti di cui parleremo saranno:
 
 Un Meetup indispensabile per chiunque stia considerando l'upgrade a Java 9.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/jb-p5tDu5LA/hqdefault.jpg)](https://www.youtube.com/watch?v=jb-p5tDu5LA)
+
 #### Quando ?
 
 <u>13 Dicembre 2017</u>
