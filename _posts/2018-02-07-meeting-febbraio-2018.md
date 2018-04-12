@@ -3,7 +3,7 @@ layout: post
 title: Meeting Febbraio 2018
 ---
 
-7 Febbraio 2018- **JHipster: dall'idea alla macchinetta del caffé al deploy prima di pranzo**
+7 Febbraio 2018 - **JHipster: dall'idea alla macchinetta del caffé al deploy prima di pranzo**
 
 Dovete sviluppare una applicazione web Angular, con backend SpringBoot ed API REST pronte all'uso.
 Oltre a preoccuparvi delle API, volete gestire correttamente autenticazione ed autorizzazione, offrendo anche social login.

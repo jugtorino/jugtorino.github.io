@@ -3,7 +3,7 @@ layout: post
 title: Meeting Aprile 2018
 ---
 
-18 Aprile 2018- **Bitcoin e Blockchain: che cosa è Bitcoin e come funziona la blockchain **
+18 Aprile 2018 - **Bitcoin e Blockchain: che cosa è Bitcoin e come funziona la blockchain**
 
 ### Bitcoin e Blockchain: che cosa è Bitcoin e come funziona la blockchain
 
@@ -11,7 +11,7 @@ Che cosa sono i Bitcoin e come funziona tecnicamente la blockchain.
 Come viene applicata la crittografia e il distributed networking per
 creare una moneta digitale fiduciaria “trustless”, che elimina gli
 intermediari istituzionali e che promette di rivoluzionare internet.
-L’obiettivo principale sarà di spiegare come funziona la blockchain di
+L'obiettivo principale sarà di spiegare come funziona la blockchain di
 bitcoin con qualche accenno su quali sono le potenzialità di questa
 tecnologia, le “dapp” decentralized applications, le “dao”
 decentralized autonomous applications.
@@ -19,11 +19,11 @@ decentralized autonomous applications.
 #### Speaker
 
 Luigi Viggiano è un membro fondatore del JUG Torino. Programma in Java
-dal 2000, e utilizza bitcoin da un paio d’anni, ma da pochi mesi ha
+dal 2000, e utilizza bitcoin da un paio d'anni, ma da pochi mesi ha
 cominciato a capire come funziona davvero e ad appassionarsi a questa
 tecnologia.
-Ha lavorato come consulente free lance in Italia e all’estero su
-applicazioni web e mobile nell’ambito finanziario, telecomunicazioni e
+Ha lavorato come consulente free lance in Italia e all'estero su
+applicazioni web e mobile nell'ambito finanziario, telecomunicazioni e
 pubblica amministrazione. Mantiene una libreria open source per
 gestire la configurazione di progetti Java/JVM
 (http://owner.aeonbits.org).
@@ -33,6 +33,7 @@ gestire la configurazione di progetti Java/JVM
 A 6 mesi dall'uscita di Java 9, viene rilasciata la versione 10 con l'inserimento di alcune novita'.
 
 #### Speaker
+
 Simone Bordet
 
 #### Quando?
