@@ -14,6 +14,25 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 13/07/2018  
+**Company:** [MbitCon](https://www.mbitcon.eu/)  
+**Location:** Monaco di Baviera  
+**Title:** Senior/Junior Java Engineer   
+**Contact:** <info@mbitcon.eu>
+
+Impresa IT Consulting cerca sviluppatori Java di tutti i livelli per supportare il nostro team in diversi progetti IT nella zona di Monaco di Baviera, prevalentemente nel campo telecommunicazione.
+Esperienza in JEE, Spring o tecnologie simili sono desiderabili ma non obbligatorie. Si richiede laurea in informatica o esperienza equivalente. Inoltre buon conoscimento della lingua inglese e conoscimento basico della lingua tedesca.
+Offriamo stipendi superiori alla media tedesca in zona (3,5k a 5,6k € lordi a mese secondo esperienza e qualificazione) e aiutiamo con il trasloco e la ricerca di alloggio.
+
+Contratto di lavoro: Tempo pieno
+
+Ulteriori informazioni su https://www.mbitcon.eu/it
+
+Invio curriculum a info(at)mbitcon.eu
+
+
+---
+
 **Date:** 05/01/2018  
 **Company:** [Engage Technology Partners](https://www.engagetech.com/)  
 **Location:** Remote  
