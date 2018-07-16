@@ -14,6 +14,34 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 16/07/2018  
+**Company:** [Ulixe Group](https://meritocracy.is/it/ulixe-group?utm_source=jug_torino&utm_medium=referral&utm_campaign=ulixe_sviluppatore_java)  
+**Location:** Torino  
+**Title:** Sviluppatore Java  
+**Contact:** <arianna@meritocracy.is>
+
+Il nostro partner Ulixe Group, una realtà professionale ad alto contenuto innovativo che opera nel settore dell’IT Consulting e nello sviluppo di applicazioni web e mobile con sedi a Torino, Milano e Los Angeles, è alla ricerca di uno **Sviluppatore Java.**
+
+Il candidato ideale ha maturato almeno **2 anni di esperienza** nello sviluppo di applicazioni in ambiente Java. E’ in grado di supportare il team di progetto nella realizzazione della documentazione di analisi tecnica e funzionale.  
+
+**Competenze tecniche indispensabili:**
+- Ottima conoscenza dei principi della programmazione ad oggetti e dei principali design pattern 
+- Linguaggi e framework di programmazione J2EE: Java, HTML, CSS, Javascript, Jquery, Ajax Doti di problem solving 
+- Capacità di gestione ed approccio positivo/ proattivo nella gestione della criticità 
+- Buona capacità di relazione e propensione al lavoro in team  
+
+**Requisiti preferenziali:**
+- Conoscenza del framework di sviluppo applicativo SPRING 
+- Conoscenza di comunicazione tra Web Services (SOAP based / REST)  
+
+**Sede di lavoro: Milano o Torino, in base alle esigenze del candidato.**
+Si offre la possibilità di inserimento con un trattamento retributivo in linea con le effettive competenze del candidato. La seniority è ampia, di conseguenza anche la **RAL: 28-38K**
+
+Potete scoprire di più e inviare la vostra candidatura tramite Meritocracy qui:
+https://meritocracy.is/it/ulixe-group/sviluppatore-java-29842?utm_source=jug_torino&utm_medium=referral&utm_campaign=ulixe_sviluppatore_java
+
+---
+
 **Date:** 13/07/2018  
 **Company:** [MbitCon](https://www.mbitcon.eu/)  
 **Location:** Monaco di Baviera  
