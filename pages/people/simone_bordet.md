@@ -88,3 +88,9 @@ Capt. Sullenberger: "Got any ideas ?"
 "It's the non-cognitive skills (hard work, courage, self-discipline) that sets you apart from everybody else; and that's what it's all about."
 
 [David Goggins](https://www.youtube.com/watch?v=oIrT1eHs1b0)
+
+----
+
+"You live simple, you train hard and live a honest life. Then you are free."
+
+[Eliud Kipchoge](https://www.youtube.com/watch?v=V2ZLG-Fij_4&t=1371)
