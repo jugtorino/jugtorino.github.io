@@ -3,7 +3,7 @@ layout: post
 title: Meeting Settembre 2018
 ---
 
-19 Settembre 2018 - **Deploy and Scale your application with AWS Elastic Beanstalk and Docker**
+26 Settembre 2018 - **Deploy and Scale your application with AWS Elastic Beanstalk and Docker**
 
 ### Deploy and Scale your application with AWS Elastic Beanstalk and Docker
 
@@ -15,7 +15,7 @@ Speaker: Walter Dal Mut
 
 #### Quando?
 
-<u>19 Settembre 2018</u>
+<u>26 Settembre 2018</u>
 
 * 18:30 - Check-in
 * 18:45 - Benvenuto e aggiornamenti
