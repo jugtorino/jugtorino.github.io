@@ -16,6 +16,8 @@ bitcoin con qualche accenno su quali sono le potenzialità di questa
 tecnologia, le “dapp” decentralized applications, le “dao”
 decentralized autonomous applications.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/kr9dFMoCXHs/hqdefault.jpg)](https://www.youtube.com/watch?v=kr9dFMoCXHs)
+
 #### Speaker
 
 Luigi Viggiano è un membro fondatore del JUG Torino. Programma in Java

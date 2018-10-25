@@ -13,6 +13,8 @@ Il talk sarà in italiano
 
 Speaker: Walter Dal Mut
 
+[![Registrazione meeting](https://i.ytimg.com/vi/hsEQXdzaonA/hqdefault.jpg)](https://www.youtube.com/watch?v=hsEQXdzaonA)
+
 #### Quando?
 
 <u>26 Settembre 2018</u>
