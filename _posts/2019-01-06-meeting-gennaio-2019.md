@@ -3,7 +3,7 @@ layout: post
 title: Meeting Gennaio 2019
 ---
 
-21 Gennaio 2019 - **MariaDB from the trenches**
+21 Gennaio 2019 - **Monolith from the trenches**
 
 ### Monolith from the trenches 
 
