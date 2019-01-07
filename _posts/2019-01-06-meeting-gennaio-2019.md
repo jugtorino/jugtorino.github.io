@@ -7,7 +7,9 @@ title: Meeting Gennaio 2019
 
 ### Monolith from the trenches 
 
-Ovvero come imparai a gestire un monolite e a non preoccuparmi
+La maggior parte dei sistemi e servizi la fuori è composta di codice e sistemi legacy, spesso ben lontani dallo stato dell'arte presentato in letteratura o nello scintillante mondo delle conferenze. 
+
+Nel talk viene presentato una esperienza concreta dove il classico "monolite" e l'ecosistema intorno vengono portati nel 2019: Jenkins, Docker, Ansible e tutto il resto.
 
 Speaker: Federico Tolomei
 
