@@ -3,7 +3,7 @@ layout: post
 title: Meeting Gennaio 2019
 ---
 
-21 Gennaio 2019 - **Monolith from the trenches**
+16 Gennaio 2019 - **Monolith from the trenches**
 
 ### Monolith from the trenches 
 
