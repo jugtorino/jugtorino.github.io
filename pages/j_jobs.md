@@ -14,6 +14,42 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 14/01/2019
+**Company:** [Orwell Group](https://orwellg.com)  
+**Location:** London  
+**Title:** Senior API developer + Junior Devops Engineer
+
+**Contact:** <f.diotalevi@orwellg.com>
+
+Orwell is a London-based financial services group delivering breakthrough services that represent a transformational change to the way individuals, businesses, public sector organisations and other financial institutions manage cash and payment transactions.
+
+We are currently looking for 2 profiles (as permanent employees) in our London office (Aldgate area)
+- Senior API Developer
+- Junior Devops Engineer 
+
+**Experience and skills required:**
+
+Senior API Developer:
+- Excellent experience in developing REST API
+- Good experience of using Java and/or Node.js to develop API
+- Good experience with Apigee API Gateway (or similar, like Kong)
+- Agile development experience 
+- Good knowledge of English language
+
+Salary range: 50-75k pounds per year + benefits (pension, health&life insurance)
+
+Junior Devops Engineer:
+- Passion for learning new tools and technologies
+- 1-2 experience as system administrator or Devops engineer
+- Familiar with Linux system administration
+- Some knowledge of cloud infrastructure (or passion to learn)
+- Knowledge of one or more of this tools: Ansible, Docker, Terraform, Kubernetes
+
+Salary range: 35-50k pounds per year with + benefits (pension, health&life insurance)
+
+
+---
+
 **Date:** 16/07/2018  
 **Company:** [Ulixe Group](https://meritocracy.is/it/ulixe-group?utm_source=jug_torino&utm_medium=referral&utm_campaign=ulixe_sviluppatore_java)  
 **Location:** Torino  
