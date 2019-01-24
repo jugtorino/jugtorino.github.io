@@ -14,6 +14,72 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 24/01/2019  
+**Company:** [GetJenny](https://www.getjenny.com)  
+**Location:** Torino
+**Title:** DevOps (ref. GJ-HR-180518-0)  
+**Contact:** <careers@getjenny.com>
+
+
+**Job brief**
+
+We are looking for a DevOps Engineer to help us to deploy and maintain our systems and
+services.
+DevOps Engineer responsibilities include deploying product updates, monitor the infrastructure,
+identifying and prevent production issues. Execute and automate operational processes fast,
+accurately and securely
+
+**Context**
+
+GetJenny past year has been a year of growth both in business and technology. But more
+business means technology must respect certain well-recognized standards, first among all
+about software development and operations.
+
+**GetJenny Product Goal**
+
+At GetJenny we build chatbots able to satisfy the final customer's needs with an action to made
+by the brand (our customer).
+
+**DevOps overall goal**
+* Reduce time-to-market for new features
+* Reduce deployment time it takes to deploy a software release and consequently reduce the downtime due to maintenance interventions.
+* Propose tests and set up tools to make sure they are always run
+* GetJenny infrastructure maintenance
+* Monitoring of the services: defining alarms, goals and related metrics to measure the status of the services
+* Enable the whole infrastructure topology (or part of it) to be deployed/tested/run off-site, on demand.
+* In particular, the following aspects of the software lifecycle must be addressed:
+  * Maintenance deployment e.g. changes on the hardware infrastructure or the
+software architecture
+  * Software update: new versions of the software
+  * Deploy in case of Security Incidents or Degraded Service and other high criticality and priority circumstances.
+
+The DevOps will operate in accordance with the Company’s Software Development Process.
+
+**DevOps task is to enable the business**
+
+This does not mean they are responsible for answering night calls because the machine is down (It's your code -- It's your machine). This means making sure we have the metrics to go to bed every night knowing the probability of being called is close to zero, but knowing that if something goes wrong we will be alerted before the customer knows it.
+
+DevOps task is to lower the risk of change The more sophisticated the product, the more difficult (and dangerous) changes are. But a product which does not evolve dies.
+
+DevOps chooses and sets up tools for making upgrades and changes as easy and safe as possible through automation.
+
+**Requirements and qualifications**
+
+* Experience in managing Linux based infrastructure
+* hands-on experience at least in one scripting language
+* hands-on experience with databases SQL/NoSQL, in particular PostgreSQL and Elasticsearch
+* Proficiency with at least a programming language, experience with Scala and Sbt is a plus.
+* Knowledge of Docker and Kubernetes
+* Experience with Azure and AWS services
+* Sense of ownership and pride in your performance and its impact on company’s success
+* Critical thinker and problem-solving skills
+* Team player
+* Good time-management skills
+* Interpersonal and communication skills
+* Bachelor’s Degree or MS in Engineering or equivalent
+
+---
+
 **Date:** 14/01/2019
 **Company:** [Orwell Group](https://orwellg.com)  
 **Location:** London  
