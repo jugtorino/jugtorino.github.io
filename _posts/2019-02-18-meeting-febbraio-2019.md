@@ -5,7 +5,7 @@ title: Meeting Febbriaio 2019
 
 27 Febbraio 2019 - **Automate your business**
 
-### Monolith from the trenches 
+### Automate your business
 
 Descrivere l’infrastruttura come codice e rendere automatico il delivery è importante: per documentare, evitare errori e non perdere pezzi per strada. Soprattutto quando i sistemi hanno diverse componenti e si utilizza il cloud.
 Nel talk verrà presentato un approccio concreto con Terraform ed Ansible, utilizzando AWS come cloud provider.
