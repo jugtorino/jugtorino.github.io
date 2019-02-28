@@ -14,6 +14,8 @@ Speakers
 Maurizio Branca
 Massimiliano Bugni
 
+[![Registrazione meeting](https://i.ytimg.com/vi/JUI47ubxmuA/hqdefault.jpg)](https://www.youtube.com/watch?v=JUI47ubxmuA)
+
 #### Quando?
 
 <u>27 Febbraio 2019</u>
