@@ -16,8 +16,8 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 **Date:** 29/03/2019  
 **Company:** Strumenta  
-**Location:** Remote work 
-**Title:** Analyst programmer
+**Location:** Remote work  
+**Title:** Analyst programmer  
 **Contact:** <gabriele@strumenta.com>
 
 **Strumenta** is a consulting company specialized in Language Engineering. We create parsers, transpilers, interpreters, compilers and Domains Specific Languages for our clients, which are everywhere in the world.
