@@ -14,6 +14,47 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 29/03/2019  
+**Company:** Strumenta  
+**Location:** Remote work 
+**Title:** Analyst programmer
+**Contact:** <gabriele@strumenta.com>
+
+**Strumenta** is a consulting company specialized in Language Engineering. We create parsers, transpilers, interpreters, compilers and Domains Specific Languages for our clients, which are everywhere in the world.
+
+We use technologies like **JetBrains MPS, Xtext** and **ANTLR** to develop solutions to improve the productivity of companies.
+
+**Analyst Programmer for Language Engineering **
+
+Strumenta is searching for an analyst programmer who is able to work autonomously, communicating directly with the client.
+
+You do not need to already be an expert in Language Engineering. After a training period the developer should be able to analyze the clients’ needs to manage and create language engineering projects.
+
+The work will be performed remotely. However, it might be necessary to occasionally meet with clients, within Europe and occasionally in North America.
+
+The **initial contract proposed is for 6 months**. At the end of 6 months, if both parties are willing to continue the collaboration, the contract will become a full-time permanent contract.
+
+The **annualized gross pay (RAL in Italian) will be between 30 and 36K€**.
+
+This job search is offered to member of both sexes (Legge 903/77 e 125/91). It is required to give an explicit consent to manage your personal information (ex D.Lgs 196/03).
+
+**Required skills**
+
+- in-depth knowledge of Java
+- 3-5 years of working experience
+- in-depth knowledge of recent testing practices and the main programming paradigms
+- fluency in spoken and written English (+90% clients are outside Italy)
+- ability to manage project and to communicate with clients independently
+
+**Welcome skills**
+
+- in-depth knowledge of C++ and C#
+- knowledge of ANTLR, Bison, Lex, Xtext and JetBrains MPS
+- knowledge of DSLs
+- knowledge of French
+
+---
+
 **Date:** 08/02/2019  
 **Company:** Weiji  
 **Location:** Torino  
