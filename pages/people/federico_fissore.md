@@ -6,8 +6,8 @@ permalink: /people/federicofissore/
 ---
 
  - https://www.linkedin.com/in/fissore
- - http://twitter.com/cmdrline
+ - https://twitter.com/cmdrline
  - https://github.com/ffissore
- - http://fissore.org/
+ - https://fissore.org/
  - federico@fissore.org
 
