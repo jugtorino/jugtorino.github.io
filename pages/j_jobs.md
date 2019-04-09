@@ -14,6 +14,30 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 09/04/2019
+**Company:** Ulixe Nova S.R.L.
+**Location:** Torino  
+**Title:** Sviluppatore Java  
+**Contact:** <giuseppe.coniglio@ulixe.com>
+
+Ricerchiamo uno sviluppatore Java con esperienza pluriennale in ambito Java EE.
+
+**Competenze tecniche indispensabili:**
+- Java Web Frameworks  : Apache Struts, Spring MVC , Hibernate, JSF.
+- Java based Frameworks: Spring Boot
+- RDBMS : Oracle
+- Conoscenza di comunicazione tra Web Services (SOAP based / REST)  
+
+**Requisiti preferenziali:**
+- Framework JavaScript : Angular
+- Google Web Toolkit
+- HTML 5
+- CSS3
+- RDBMS : IBM DB/2, MySQL , Microsoft SQL Server.
+
+**Sede di lavoro: Torino.**
+---
+
 **Date:** 29/03/2019  
 **Company:** Strumenta  
 **Location:** Remote work  
