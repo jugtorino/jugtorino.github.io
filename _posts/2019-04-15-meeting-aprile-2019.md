@@ -45,6 +45,7 @@ colleghi crea Quarkus. Ha vissuto nei Paesi Bassi, in Italia, nella
 Repubblica Dominicana, in Chile, in Portogallo, e al momento dimora a
 Londra.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/xfryfdlUNbo/hqdefault.jpg)](https://www.youtube.com/watch?v=xfryfdlUNbo)
 
 #### Quando?
 

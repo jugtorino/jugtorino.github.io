@@ -17,6 +17,8 @@ Questa sessione presenterà questi due GC, come fare per attivarli, come configu
 
 **Speaker**: Simone Bordet
 
+[![Registrazione meeting](https://i.ytimg.com/vi/yEcV9wWQfbM/hqdefault.jpg)](https://www.youtube.com/watch?v=yEcV9wWQfbM)
+
 #### Quando?
 
 <u>10 Aprile 2019</u>
