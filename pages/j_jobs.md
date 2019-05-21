@@ -14,6 +14,110 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 21/05/2019  
+**Company:** [GetJenny](https://www.getjenny.com)  
+**Location:** Torino
+**Title:** ScalaDeveloper (ref. GJ-HR-190419-0)  
+**Contact:** <careers@getjenny.com>
+
+**Job brief**
+
+We are looking for a Scala Developer to help us to design, develop and maintain the components our software stack. 
+Design, development, enhancements, re-engineering and maintaining Scala applications.
+
+**Context**
+
+GetJenny helps customer service people focus on tasks that require life experience by enabling companies to quickly and easily teach, deploy, and maintain human-directed AI to instant messaging on live chat platforms. Our platform enhances customer satisfaction, drives new sales, and reduces customer service overhead. We have already provided solutions to happy customer companies such as If Insurance, Mehiläinen, Slush, and Memira. GetJenny serves customers in Finland, Sweden, Italy, and the United Arab Emirates
+
+**Scala Developer overall goals**
+* Design and development of new applications from functional specifications
+* Developing new scala applications
+* Enhancing, re-engineering & maintaining applications with Scala
+* Contribute to the overall design and architecture of the application developed and deployed
+* The Scala Developer will operate in accordance with the Company’s Software Development Process.
+
+**Requirements and qualifications**
+* Working experience with Linux based platforms
+* Working knowledge of the bash shell environment
+* Good knowledge of git
+* Proficiency with the Scala programming language, functional paradigm and design patterns
+* Experience with SBT
+* hands-on experience with databases SQL/NoSQL, in particular PostgreSQL and Elasticsearch
+* Knowledge of Akka and Akka-Http
+* Experience with the JVM environment
+* Experience with production, publishing and management of jars artifacts
+* Experience with Docker
+* Experience with Apache Spark and Hadoop is appreciated as well as experience in ETL architectures and cloud platforms like AWS and Azure.
+* Fluency in English
+* Sense of ownership and pride in your performance and its impact on company’s success
+* Critical thinker and problem-solving skills
+* Team player
+* Good time-management skills
+* Interpersonal and communication skills
+* Bachelor’s Degree or MS in Engineering or equivalent
+
+**Benefits**
+
+* Opportunity to jump along in a fast growing and internationalizing technology startup
+* Permanent position with flexible working hours
+* Freedom to genuinely contribute to your role and get more responsibility
+
+Sounds like the perfect opportunity for you? Apply and tell us why you’d be the right match as described and brilliant addition to GetJenny’s team. Please note that we will go through applications during the application period, so be ready for quick moves.
+
+---
+
+**Date:** 21/05/2019  
+**Company:** [GetJenny](https://www.getjenny.com)  
+**Location:** Torino
+**Title:** Frontend Developer (ref. GJ-HR-190419-1)  
+**Contact:** <careers@getjenny.com>
+
+**Job brief**
+
+Looking to make an impact in a fast growth international startup? For GetJenny the past year has been a year of rapid growth both in business and technology and we are now looking for a Front-end Developer to support increasing demand and growth.
+
+At GetJenny you will help us to build and design new features to our products, manage multiple interesting customer projects and participate in defining and creating our company future as a valued team member.
+
+We are looking for a developer who is self-motivated and able to make logical decisions to ensure the overall success of our product, customer and business concerns and objectives. One of your main responsibilities is to maintain and develop our internal and customer facing Web User Interfaces.
+
+**Context**
+
+GetJenny helps customer service people focus on tasks that require life experience by enabling companies to quickly and easily teach, deploy, and maintain human-directed AI to instant messaging on live chat platforms. Our platform enhances customer satisfaction, drives new sales, and reduces customer service overhead. We have already provided solutions to happy customer companies such as If Insurance, Mehiläinen, Slush, and Memira. GetJenny serves customers in Finland, Sweden, Italy, and the United Arab Emirates
+
+**Scala Developer overall goals**
+
+* Development of our customer web portal and user interface (creating and editing conversation flows, adding integrations, reporting dashboard etc.)
+* Enhancing, re-engineering & maintaining web applications
+* Contribute to the overall design and architecture of the web applications developed and deployed
+
+Strong UI/UX design experience will be highly valued
+
+**Requirements and qualifications**
+* 3+ years relevant working experience
+* Experience working with HTML5/CSS3, React, Bootstrap/Foundation, Gulp, Bower
+* Proficiency with JavaScript, knowledge of ScalaJS will be a plus.
+* Knowledge of git
+* Experience with NodeJS
+* Write clean, modular, maintainable and testable code
+* Pragmatic and customer oriented, and comfortable to work in a fast-paced environment
+* Eager to contribute and brainstorm to build a world class product and company
+* Fluency in English
+* Sense of ownership and pride in your performance and its impact on company’s success
+* Critical thinker and problem-solving skills
+* Team player
+* Good time-management skills
+* Interpersonal and communication skills
+
+**Benefits**
+
+* Opportunity to jump along in a fast growing and internationalizing technology startup
+* Permanent position with flexible working hours
+* Freedom to genuinely contribute to your role and get more responsibility
+
+Sounds like the perfect opportunity for you? Apply and tell us why you’d be the right match as described and brilliant addition to GetJenny’s team. Please note that we will go through applications during the application period, so be ready for quick moves.
+
+---
+
 **Date:** 02/05/2019  
 **Company:** [Meterian](https://www.meterian.com/)  
 **Location:** Londra (Regno Unito)  
@@ -136,72 +240,6 @@ La figura deve manifestare un forte orientamento al risultato, curiosità, passi
 L'ambiente in cui la figura si andrà ad inserire è giovane, con obiettivi innovativi e caratterizzato da un contesto altamente professionalizzante.
 
 Il livello di inquadramento e retribuzione terrà conto delle competenze e del livello di esperienze raccolte precedentemente.
-
----
-
-**Date:** 24/01/2019  
-**Company:** [GetJenny](https://www.getjenny.com)  
-**Location:** Torino
-**Title:** DevOps (ref. GJ-HR-180518-0)  
-**Contact:** <careers@getjenny.com>
-
-
-**Job brief**
-
-We are looking for a DevOps Engineer to help us to deploy and maintain our systems and
-services.
-DevOps Engineer responsibilities include deploying product updates, monitor the infrastructure,
-identifying and prevent production issues. Execute and automate operational processes fast,
-accurately and securely
-
-**Context**
-
-GetJenny past year has been a year of growth both in business and technology. But more
-business means technology must respect certain well-recognized standards, first among all
-about software development and operations.
-
-**GetJenny Product Goal**
-
-At GetJenny we build chatbots able to satisfy the final customer's needs with an action to made
-by the brand (our customer).
-
-**DevOps overall goal**
-* Reduce time-to-market for new features
-* Reduce deployment time it takes to deploy a software release and consequently reduce the downtime due to maintenance interventions.
-* Propose tests and set up tools to make sure they are always run
-* GetJenny infrastructure maintenance
-* Monitoring of the services: defining alarms, goals and related metrics to measure the status of the services
-* Enable the whole infrastructure topology (or part of it) to be deployed/tested/run off-site, on demand.
-* In particular, the following aspects of the software lifecycle must be addressed:
-  * Maintenance deployment e.g. changes on the hardware infrastructure or the
-software architecture
-  * Software update: new versions of the software
-  * Deploy in case of Security Incidents or Degraded Service and other high criticality and priority circumstances.
-
-The DevOps will operate in accordance with the Company’s Software Development Process.
-
-**DevOps task is to enable the business**
-
-This does not mean they are responsible for answering night calls because the machine is down (It's your code -- It's your machine). This means making sure we have the metrics to go to bed every night knowing the probability of being called is close to zero, but knowing that if something goes wrong we will be alerted before the customer knows it.
-
-DevOps task is to lower the risk of change The more sophisticated the product, the more difficult (and dangerous) changes are. But a product which does not evolve dies.
-
-DevOps chooses and sets up tools for making upgrades and changes as easy and safe as possible through automation.
-
-**Requirements and qualifications**
-
-* Experience in managing Linux based infrastructure
-* hands-on experience at least in one scripting language
-* hands-on experience with databases SQL/NoSQL, in particular PostgreSQL and Elasticsearch
-* Proficiency with at least a programming language, experience with Scala and Sbt is a plus.
-* Knowledge of Docker and Kubernetes
-* Experience with Azure and AWS services
-* Sense of ownership and pride in your performance and its impact on company’s success
-* Critical thinker and problem-solving skills
-* Team player
-* Good time-management skills
-* Interpersonal and communication skills
-* Bachelor’s Degree or MS in Engineering or equivalent
 
 ---
 
