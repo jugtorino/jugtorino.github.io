@@ -16,7 +16,7 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 **Date:** 21/05/2019  
 **Company:** [GetJenny](https://www.getjenny.com)  
-**Location:** Torino
+**Location:** Torino  
 **Title:** ScalaDeveloper (ref. GJ-HR-190419-0)  
 **Contact:** <careers@getjenny.com>
 
@@ -68,7 +68,7 @@ Sounds like the perfect opportunity for you? Apply and tell us why you’d be th
 
 **Date:** 21/05/2019  
 **Company:** [GetJenny](https://www.getjenny.com)  
-**Location:** Torino
+**Location:** Torino  
 **Title:** Frontend Developer (ref. GJ-HR-190419-1)  
 **Contact:** <careers@getjenny.com>
 
