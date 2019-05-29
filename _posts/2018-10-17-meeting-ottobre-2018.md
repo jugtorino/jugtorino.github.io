@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java 11: Le Novità
+title: Java 11
 ---
 
 17 Ottobre 2018
