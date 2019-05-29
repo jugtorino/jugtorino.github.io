@@ -3,7 +3,7 @@ layout: post
 title: Security By Design
 ---
 
-21 Maggio 2019 - **Security By Design - Why security matters**
+21 Maggio 2019
 
 ### Security By Design - Why security matters
 
