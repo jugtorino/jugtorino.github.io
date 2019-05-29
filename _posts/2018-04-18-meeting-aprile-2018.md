@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Meeting Aprile 2018
+title: Bitcoin e Blockchain
 ---
 
-18 Aprile 2018 - **Bitcoin e Blockchain: che cosa è Bitcoin e come funziona la blockchain**
+18 Aprile 2018
 
 ### Bitcoin e Blockchain: che cosa è Bitcoin e come funziona la blockchain
 

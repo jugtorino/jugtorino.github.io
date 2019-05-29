@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Meeting Febbraio 2019
+title: Automate your business
 ---
 
-27 Febbraio 2019 - **Automate your business**
+27 Febbraio 2019
 
 ### Automate your business
 

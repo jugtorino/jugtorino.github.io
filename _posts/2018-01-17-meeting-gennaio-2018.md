@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Meeting Gennaio 2018
+title: JavaParser
 ---
 
-17 Gennaio 2018 - **JavaParser per generare, modificare e analizzare codice Java**
+17 Gennaio 2018
+
+### JavaParser per generare, modificare e analizzare codice Java
 
 JavaParser è un parser per Java, scritto in Java.
 Insieme a JavaSymbolSolver può essere utilizzato per processare codice Java per gli scopi più disparati.

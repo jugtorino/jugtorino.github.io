@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Secondo Meeting Aprile 2019
+title: GraalVM senza limiti
 ---
 
-15 Aprile 2019 - **GraalVM senza limiti: avviare Hibernate ORM in 5ms e con solo 15MB di memoria**
+15 Aprile 2019
 
 ### GraalVM senza limiti: avviare Hibernate ORM in 5ms e con solo 15MB di memoria
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Meeting Settembre 2018
+title: AWS Elastic Beanstalk and Docker
 ---
 
-26 Settembre 2018 - **Deploy and Scale your application with AWS Elastic Beanstalk and Docker**
+26 Settembre 2018
 
 ### Deploy and Scale your application with AWS Elastic Beanstalk and Docker
 

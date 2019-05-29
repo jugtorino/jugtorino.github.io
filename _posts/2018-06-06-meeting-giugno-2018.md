@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Meeting Giugno 2018
+title: FlameGraphs
 ---
 
-6 Giugno 2018 - **Put your code on fire with FlameGraphs**
+6 Giugno 2018
 
 ### Put your code on fire with FlameGraphs
 

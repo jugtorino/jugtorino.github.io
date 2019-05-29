@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Meeting Luglio 2018
+title: Testcontainers
 ---
 
-18 Luglio 2018 - **Integration tests: Testcontainers to the rescue**
+18 Luglio 2018
 
 ### Integration tests: Testcontainers to the rescue
 

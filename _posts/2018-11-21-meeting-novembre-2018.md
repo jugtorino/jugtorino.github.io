@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Meeting Novembre 2018
+title: MariaDB from the trenches
 ---
 
-21 Novembre 2018 - **MariaDB from the trenches**
+21 Novembre 2018
 
 ### MariaDB from the trenches
 

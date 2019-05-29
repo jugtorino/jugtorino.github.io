@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Meeting Aprile 2019
+title: Concurrent Garbage Collectors
 ---
 
-10 Aprile 2019 - **Concurrent Garbage Collectors: ZGC & Shenandoah**
+10 Aprile 2019
 
 ### Concurrent Garbage Collectors: ZGC & Shenandoah
 

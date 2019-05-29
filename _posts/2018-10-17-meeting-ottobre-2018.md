@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Meeting Ottobre 2018
+title: Java 11: Le Novità
 ---
 
-17 Ottobre 2018 - **Java 11: Le Novità (con uno sguardo a Java 10 e Java 9)**
+17 Ottobre 2018
 
 ### Java 11: Le Novità (con uno sguardo a Java 10 e Java 9)
 
