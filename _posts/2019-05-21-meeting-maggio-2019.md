@@ -34,7 +34,7 @@ quella apertura, rimasta in ombra, da sfruttare.
 Unendo le competenze e lo spirito del Red Team e del Blue Team, mi trovo 
 spesso a giocare con cappello bianco e maglia Purple.
 
-[![Registrazione meeting](https://i.ytimg.com/vi/Ns5ptOHxQpk/hqdefault.jpg)](https://www.youtube.com/watch?v=Ns5ptOHxQpk)
+[![Registrazione meeting](https://i.ytimg.com/vi/AnUL-eZ5H8Q/hqdefault.jpg)](https://www.youtube.com/watch?v=AnUL-eZ5H8Q)
 
 #### Quando?
 
