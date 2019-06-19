@@ -14,6 +14,48 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 19/06/2019  
+**Company:** Trackysat Srl (http://www.trackyfood.com)  
+**Location:** Torino  
+**Title:** Developer (DevOps)  
+**Contact:** <federico.persico@trackysat.com> (CTO)
+
+Trackysat Srl ricerca neolaureati o developer con almeno 1/2 anni di esperienza per lo sviluppo ed evoluzione di un servizio innovativo legato al mondo della tracciabilità alimentare. 
+Il candidato sarà inserito all'interno del team tecnico che gestisce la totalità della soluzione.
+Aree di sviluppo:
+- core backend (Java 8, Spring MVC, blockchain)
+- gestione dell'infrastruttura (cloud configuration, load balancing, API)
+- sviluppo frontend (html5, angular, json)
+- mobile (ios Android).
+
+Per il candidato è previsto un periodo di formazione sui componenti della soluzioni ed in base alle sue competenze ed attitudini sarà inserito nell'area che verrà ritenuta più idonea.
+
+**Required skills**
+
+
+Conoscenze di base sui linguaggi di programmazione (preferenziale Java 8)
+Predisposizione al lavoro in team con buona attitudine al problem solving ed allo studio ed utilizzo di nuove tecnologie.
+Buona conoscenza della lingua inglese
+
+**Welcome skills**
+
+
+- AWS (conoscenza degli strumenti e funzionalità offerte dalla piattaforma AWS)
+- blockchain
+- Versioning (Git , svn, ...)
+
+**RAL - 25K - 35K**
+
+La retribuzione e l'inquadramento saranno valutati in base alle competenze del candidato.
+
+**Location**
+
+La sede operativa si trova vicino Torino a Villanova D'asti, con possibilità di spostamento sulla sede di Moncalieri (TO).
+E'programmabile una gestione Smart Wokring
+
+
+---
+
 **Date:** 21/05/2019  
 **Company:** [GetJenny](https://www.getjenny.com)  
 **Location:** Torino  
