@@ -30,9 +30,9 @@ Presso [Toolbox](/places/toolbox/).
 
 La partecipazione è aperta a tutti, previa *registrazione* (ci serve per sapere quanti saremo).
 
-[Registratevi su meetup](https://www.meetup.com/it-IT/JUGTorino/events/262705113/).
+[Registrati su meetup](https://www.meetup.com/it-IT/JUGTorino/events/262705113/).
 
-[Iscriviti](/subscribe/) alla mailing list del JUG Torino per venire a conoscenza degli eventi.
+[Iscriviti](/subscribe/) alla mailing list del JUG Torino per venire a conoscenza degli eventi e per parlare con lo speaker dopo il talk.
 
 #### Posso avere un altro riferimento ?
 
