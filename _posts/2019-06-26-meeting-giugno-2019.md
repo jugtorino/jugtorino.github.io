@@ -23,7 +23,7 @@ Francesco is a software engineer student, working at Red Hat and studying at Pol
 
 #### Quando?
 
-<u>26 Gougno 2019</u>
+<u>26 Giugno 2019</u>
 
 * 18:30 - Check-in
 * 18:45 - Benvenuto e aggiornamenti
