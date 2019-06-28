@@ -3,7 +3,7 @@ layout: post
 title: Apache Camel K
 ---
 
-18 Ottobre 2019
+16 Ottobre 2019
 
 ### Anatomy of Apache Camel K, a lightweight integration platform born on Kubernetes with serverless superpowers
 
@@ -15,7 +15,7 @@ Luca Burgazzoli is a Principal Software Engineer at Red Hat working on Apache Ca
 
 #### Quando?
 
-<u>10 Ottobre 2019</u>
+<u>16 Ottobre 2019</u>
 
 * 18:30 - Check-in
 * 18:45 - Benvenuto e aggiornamenti
