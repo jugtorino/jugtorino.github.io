@@ -21,6 +21,8 @@ Imparerai le fondamenta della programmazione Reactive e come sviluppare web appl
 
 Francesco is a software engineer student, working at Red Hat and studying at Politecnico di Milano. He is an active member of Eclipse Vert.x community since two years and a couple of months ago he joined the Vert.x team in Red Hat. He manages various components of the stack, including OpenAPI integration & Event bus services. He's also experienced in NodeJS and Scala/Akka. He's a strong believer of Open Source and a racing cars passionate.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/AorLb0-ukVQ/hqdefault.jpg)](https://www.youtube.com/watch?v=AorLb0-ukVQ)
+
 #### Quando?
 
 <u>26 Giugno 2019</u>
