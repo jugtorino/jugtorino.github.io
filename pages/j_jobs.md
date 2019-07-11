@@ -15,43 +15,41 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 ---
 
 **Date:** 19/06/2019  
-**Company:** Trackysat Srl (http://www.trackyfood.com)  
-**Location:** Torino  
-**Title:** Developer (DevOps)  
-**Contact:** <federico.persico@trackysat.com> (CTO)
+**Company:** Meritocracy srl (https://meritocracy.is/en)  
+**Location:** Milano  
+**Title:** Junior Java Developer  
+**Contact:** <valentina@meritocracy.is> (Digital Marketing Specialist)
 
-Trackysat Srl ricerca neolaureati o developer con almeno 1/2 anni di esperienza per lo sviluppo ed evoluzione di un servizio innovativo legato al mondo della tracciabilità alimentare. 
-Il candidato sarà inserito all'interno del team tecnico che gestisce la totalità della soluzione.
-Aree di sviluppo:
-- core backend (Java 8, Spring MVC, blockchain)
-- gestione dell'infrastruttura (cloud configuration, load balancing, API)
-- sviluppo frontend (html5, angular, json)
-- mobile (ios Android).
+Il nostro partner Atlantic Technologies è alla ricerca di un Junior Java Developer per la propria sede di Milano. 
+Il candidato ideale è neo-laureato in Informatica/Ingegneria Informatica, proattivo e con una forte passione per l'innovazione e la tecnologia. 
 
-Per il candidato è previsto un periodo di formazione sui componenti della soluzioni ed in base alle sue competenze ed attitudini sarà inserito nell'area che verrà ritenuta più idonea.
+Inserito all'interno del team di progetto, il candidato parteciperà attivamente alle attività di analisi e sviluppo di applicativi web in ambito enterprise basati su tecnologia J2EE. L'acquisizione delle conoscenze relative ai processi e tecnologie verrà supportato dalla formazione e certificazione sul prodotto.
+
+
 
 **Required skills**
 
 
-Conoscenze di base sui linguaggi di programmazione (preferenziale Java 8)
-Predisposizione al lavoro in team con buona attitudine al problem solving ed allo studio ed utilizzo di nuove tecnologie.
-Buona conoscenza della lingua inglese
+- Livello di istruzione: laureando/laureato in Informatica o Ingegneria Informatica, Ingegneria Fisica, Diploma Istituto Tecnologico a indirizzo Informatico;
+- Competenze tecniche: buona conoscenza di Java, HTML, Javascript, C; 
+- Desiderio di lavorare in un ambiente dinamico, orientato alla qualità; 
+- Capacità di lavorare su più progetti; 
+- Approccio Customer-Oriented; 
+- Ottime capacità di espressione orale e scritta, in italiano ed in inglese; 
+- Passione per l'innovazione e la tecnologia 
+- Onestà, precisione e collaborazione 
+- Capacità di lavorare in Team 
 
-**Welcome skills**
 
-
-- AWS (conoscenza degli strumenti e funzionalità offerte dalla piattaforma AWS)
-- blockchain
-- Versioning (Git , svn, ...)
-
-**RAL - 25K - 35K**
+**RAL**
 
 La retribuzione e l'inquadramento saranno valutati in base alle competenze del candidato.
 
 **Location**
 
-La sede operativa si trova vicino Torino a Villanova D'asti, con possibilità di spostamento sulla sede di Moncalieri (TO).
-E'programmabile una gestione Smart Wokring
+La sede operativa si trova a Milano 
+
+Scopri di più sulla posizione e candidati subito su Meritocracy: https://meritocracy.is/en/atlantic-technologies/junior-java-developer-73544?utm_source=jug_torino&utm_medium=social&utm_campaign=atlantic_technologies_junior_java_developer
 
 
 ---
