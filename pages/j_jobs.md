@@ -25,7 +25,7 @@ Meterian e' una cyber-security startup lanciata a Londra nel 2018 da [Bruno (me)
 
 Idealmente tu conosci il linguaggio di programmazione Java e le basi di algoritmi, strutture dati e programmazione. Se hai appena finito un istituto professionale in informatica, se scrivi codice per passione, se ti piace smanettare e conosci le basi, questa potrebbe essere l'occasione per te! Non devi neanche conoscere bene l'inglese, almeno per il lavoro, dal momento che la maggior parte del tempo interagirai con me. Ovviamente io parlo un discreto inglese, quindi puoi anche sfruttare l'opportunita' per imparare la lingua. Lo stipendio e' di base, ma avrai anche un mini budget tuo per acquistare libri o formazione online.
 
-Tutti i dettagli dell'annuncio li trovi [qui](https://blog.meterian.com/jobs-2019-eng-1/): ti aspettiamo!
+Tutti i dettagli dell'annuncio li trovi [qui](https://blog.meterian.com/junior-intern-java-software-developer/): ti aspettiamo!
 
 
 ---
