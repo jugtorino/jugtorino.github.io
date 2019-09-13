@@ -13,8 +13,6 @@ Discuteremo brevemente anche di cosa Oracle sta preparando per le release succes
 
 #### Speaker: Simone Bordet
 
-Francesco is a software engineer student, working at Red Hat and studying at Politecnico di Milano. He is an active member of Eclipse Vert.x community since two years and a couple of months ago he joined the Vert.x team in Red Hat. He manages various components of the stack, including OpenAPI integration & Event bus services. He's also experienced in NodeJS and Scala/Akka. He's a strong believer of Open Source and a racing cars passionate.
-
 #### Quando?
 
 <u>18 Settembre 2019</u>
