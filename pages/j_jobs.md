@@ -14,7 +14,9 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
-**Date:** 28/08/2019  
+**Position filled, thank you!**
+
+**Date:** 28/08/2019 
 **Company:** [Meterian](https://www.meterian.com/)  
 **Location:** Londra (Regno Unito)  
 **Title:** Sviluppatore Java Junior / Tirocinio  
