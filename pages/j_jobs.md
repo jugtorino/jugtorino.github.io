@@ -14,6 +14,120 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 24/09/2019
+
+**Company:** [Strumenta](https://strumenta.com)
+
+**Location:** Remoto (Italia per ragioni fiscali)
+
+**Title:** R&D Software Engineer
+
+**Contact:** <federico _at_ strumenta.com>
+ 
+**Salary:** 30K-38K/anno (Euro)
+
+
+Ti interessa lavorare da remoto come consulente di alto profilo nel campo del Language Engineering? Vuoi lavorare con ampia autonomia e responsabilità? Ti piace l'idea di lavorare con una clientela internazionale? Per te è importante l'equilibrio vita/lavoro?
+
+Se sì, allora Strumenta ha un offerta di lavoro che potrebbe interessarti.
+
+Strumenta è alla ricerca di un software engineer in grado di gestire autonomamente progetti, comunicando direttamente con il cliente. Il candidato si occuperà direttamente sia di sviluppare i programmi che di gestire i rapporti con il cliente.
+
+Noi siamo veri consulenti, non programmatori in affitto. Creiamo un contesto in cui i nostri clienti ci rispettano e sono entusiasti di lavorare con noi.
+
+I progetti che gestiamo sono relativi al Language Engineering, ma non è necessario essere già esperti del settore, dato ci sarà un periodo di formazione in azienda. Abbiamo video corsi e libri creati e venduti da noi e investiamo in corsi di formazione offerti da aziende partner, come Jetbrains.
+
+ll lavoro sarà svolto da remoto, ma è necessario avere la residenza in Italia per motivi fiscali. Potrebbero essere necessari saltuari viaggi, in Europa e America del Nord per incontrare i clienti. I viaggi sono brevi e volti a un confronto con il cliente ma lo sviluppo viene svolto da remoto.
+
+## Strumenta
+
+Strumenta è un'azienda di consulenza informatica specializzata nel Language Engineering. Creiamo parser, compilatori, interpreti, editor e Domain Specific Languages per i nostri clienti, quasi tutti fuori dall'Italia. Usiamo varie tecnologie come JetBrains MPS, Xtext e ANTLR per sviluppare soluzioni adatte a migliorare la produttività delle aziende.
+
+La nostra mission è:
+
+***We create languages and tools that make organizations more productive.*** 
+
+***Our deployed instruments make work more efficient and less error prone, which means reducing costs and making possible to progress faster. We let people focus on the stuff they know how to do instead of fighting the tools.***
+
+La nostra mission è in inglese così come tutto il materiale che produciamo, per uso interno, di marketing o per i nostri clienti.
+
+Se vuoi scoprire di più rispetto a quello che facciamo puoi consultare il blog del nostro fondatore: https://tomassetti.me
+
+In particolare potresti voler leggere questi articoli:
+
+* [https://tomassetti.me/domain-specific-languages/](https://tomassetti.me/domain-specific-languages/)
+* [https://tomassetti.me/learning-build-languages/](https://tomassetti.me/learning-build-languages/)
+* [https://tomassetti.me/guide-parsing-algorithms-terminology/](https://tomassetti.me/guide-parsing-algorithms-terminology/)
+* [https://tomassetti.me/antlr-mega-tutorial/](https://tomassetti.me/antlr-mega-tutorial/)
+
+- [https://tomassetti.me/guide-natural-language-processing/](https://tomassetti.me/guide-natural-language-processing/)
+- [https://tomassetti.me/a-complete-tutorial-on-the-drools-business-rule-engine/](https://tomassetti.me/a-complete-tutorial-on-the-drools-business-rule-engine/)
+
+## Che generi di progetti gestiamo
+
+Noi creiamo:
+
+- Domain Specific Language, ovvero linguaggi di alto livello che possano essere utilizzati da esperti di dominio come ingegneri, analisti, commercialisti, etc. Creiamo ambienti di sviluppo che rendano queste persone produttive e capaci di lavorare in autonomia
+- Interpreti e compilatori. Creiamo interpreti e compilatori per linguaggi esistenti. Ad esempio stiamo realizzando un interprete per la JVM del linguaggio RPG. Il progetto è open-source: [https://github.com/smeup/smeup-rpg](https://github.com/smeup/smeup-rpg)
+- Parser: scriviamo parser per linguaggi proprietari o linguaggi molto diffusi. Ad esempio stiamo lavorando a un parser per Cobol
+- Transpiler: per esempio abbiamo recentemente completato un transpiler da VBA a C++
+- Editor: per esempio utilizzando piattaforme come Jetbrains MPS o Monaco
+
+## Proposta economica
+
+È previsto l'inserimento con contratto a tempo pieno per un periodo di 6 mesi ed una RAL di € 30 000 - 38 000 (annualizzata). Al termine di questo periodo, nel caso entrambe le parti vogliano continuare la collaborazione, il contratto diventerà un contratto a tempo indeterminato.
+
+## Requisiti
+
+È richiesto essere fluenti con l'inglese sia parlato che scritto. Questo è un requisito vincolante, visto che la grande maggioranza dei nostri clienti sono internazionali. Il percorso di selezione verrà svolto in inglese. È gradita la conoscenza di altre lingue, in particolare del francese.
+
+Caratteristiche richieste:
+
+- 3-5 anni di esperienza: il candidato deve avere la capacità di lavorare in autonomia
+
+- conoscenza approfondita di Java o di altri linguaggi a oggetti come C#
+
+- conoscenza approfondita delle moderne pratiche di testing del software e dei principali paradigmi di programmazione
+
+- capacità di gestire progetti e comunicare con il cliente in autonomia
+
+Caratteristiche gradite:
+
+- conoscenza di C++, Java, C# o Kotlin
+
+- conoscenza di ANTLR, Bison, Lex, Xtext e JetBrains MPS
+
+- conoscenza di DSL
+
+## Responsabilità
+
+La persona che verrà selezionata dovrà svolgere una serie di mansioni che potranno variare nel tempo, essendo la nostra una piccola società in espansione. 
+
+- Raccolta requisiti. Il collaboratore dovra' lavorare con i clienti per capire le loro esigenze e  i problemi per cui necessitano una soluzione.
+- Scrittura di analisi. Il collaboratore dovrà stendere delle analisi (in inglese) dettagliano sia i requisiti che le strategie di risoluzione da proporre al cliente
+- Sviluppo software. DSL, editor, parser, compilatori, interpreti.
+- Testing. A corredo delle attività di sviluppo bisognerà prevedere delle opportune strategie di testing.
+- Code review. Il collaboratore dovrà svolgere delle code review esaminando il lavoro dei propri colleghi, al fine di garantire una migliore qualità dei sistemi realizzati. Questo meccanismo permette inoltre di fare indirettamente formazione.
+- Documentazione. I sistemi realizzati andranno opportunamente documentati.
+- Gestione del rapporto col cliente. Sarà necessario inviare degli aggiornamenti regolari ai clienti per informarli sull'avanzamento dei progetti. Strumenta si organizza in maniera da evitare il micro-management da parte dei clienti e le riunioni utili. Si prevedono meccanismi di comunicazione snella, ma rimane importante offrire visibilità su quello che si fa.
+- Scrittura di articoli tecnici in inglese. Come parte delle nostre attività di marketing realizziamo approfonditi tutorial riguardanti il Software Language Engineering.
+- Fornire consulenza e coaching riguardo le tecnologie di parsing. Alcuni clienti ci contattano per chiederci di aiutarli con specifici problemi riguardo l'utilizzo di ANTLR o simili strumenti. Dopo un periodo di formazione interna e di affiancamento il collaboratore dovrà essere in grado di rispondere autonomamente alle domande che riceverà.
+- Gestione infrastruttura. Di tanto in tanto potrebbe essere utile configurare sistemi di CI o strumenti di supporto simile. Tendiamo a usare quanti più servizi chiavi in mano possibile per risparmiare tempo ma di tanto ha senso configurare dei nostri sistemi.
+
+## Percorso di selezione
+
+Per prima cosa dovresti scrivere una email a federico at strumenta punto com. Non applicare attraverso il sito. Quando scrivi l'email non allegare il tuo curriculum. Riceverai una serie di domande, in inglese. 
+
+Valuteremo le risposte a quelle domande e nel caso passeremo alla fase successiva. In questa fare vorremmo ci indicassi eventuali articoli che hai scritto, o progetti open-source a cui hai collaborato, o descrivessi dei progetti a cui hai lavorato o che ti ispirino.
+
+Superata questa fase ti chiederemmo di fornire un contributo qualsiasi o una dei progetti open-source in cui siamo coinvolti. Crediamo sia molto utile per capire come il candidato lavoro. Il nostro obiettivo non è quello di ottenere lavoro gratuito per questo abbiamo pensato a dei progetti open-source, che sono disponibili per la comunità e che possono aiutare il candidato a promuoversi. Inoltre per ringraziare il candidato che arrivi a questo step per il suo contributo offriremo anche gratuitamente il nostro video corso su ANTLR, in versione standard, attualmente venduto per $137. 
+
+Lo step successivo prevede uno o due brevi colloqui tecnici. In questa fase chiederemo il CV e le richieste economiche.
+
+Il percorso può sembrare lungo ma crediamo valga la pena per permettere di individuare le persone giuste. In questo modo diamo la possibilità alle persone coinvolte (noi e il candidato) di conoscersi e capire se lavorare assieme potrà essere piacevole e produttivo.
+
+---
+
 **Position filled, thank you!**
 
 **Date:** 28/08/2019 
