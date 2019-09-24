@@ -54,9 +54,8 @@ In particolare potresti voler leggere questi articoli:
 * [https://tomassetti.me/learning-build-languages/](https://tomassetti.me/learning-build-languages/)
 * [https://tomassetti.me/guide-parsing-algorithms-terminology/](https://tomassetti.me/guide-parsing-algorithms-terminology/)
 * [https://tomassetti.me/antlr-mega-tutorial/](https://tomassetti.me/antlr-mega-tutorial/)
-
-- [https://tomassetti.me/guide-natural-language-processing/](https://tomassetti.me/guide-natural-language-processing/)
-- [https://tomassetti.me/a-complete-tutorial-on-the-drools-business-rule-engine/](https://tomassetti.me/a-complete-tutorial-on-the-drools-business-rule-engine/)
+* [https://tomassetti.me/guide-natural-language-processing/](https://tomassetti.me/guide-natural-language-processing/)
+* [https://tomassetti.me/a-complete-tutorial-on-the-drools-business-rule-engine/](https://tomassetti.me/a-complete-tutorial-on-the-drools-business-rule-engine/)
 
 #### Che generi di progetti gestiamo
 
@@ -79,19 +78,14 @@ Noi creiamo:
 Caratteristiche richieste:
 
 - 3-5 anni di esperienza: il candidato deve avere la capacità di lavorare in autonomia
-
 - conoscenza approfondita di Java o di altri linguaggi a oggetti come C#
-
 - conoscenza approfondita delle moderne pratiche di testing del software e dei principali paradigmi di programmazione
-
 - capacità di gestire progetti e comunicare con il cliente in autonomia
 
 Caratteristiche gradite:
 
 - conoscenza di C++, Java, C# o Kotlin
-
 - conoscenza di ANTLR, Bison, Lex, Xtext e JetBrains MPS
-
 - conoscenza di DSL
 
 #### Responsabilità
