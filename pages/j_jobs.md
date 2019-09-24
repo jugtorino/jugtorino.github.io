@@ -14,16 +14,11 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
-**Date:** 24/09/2019
-
-**Company:** [Strumenta](https://strumenta.com)
-
-**Location:** Remoto (Italia per ragioni fiscali)
-
-**Title:** R&D Software Engineer
-
-**Contact:** <federico _at_ strumenta.com>
- 
+**Date:** 24/09/2019  
+**Company:** [Strumenta](https://strumenta.com)  
+**Location:** Remoto (Italia per ragioni fiscali)  
+**Title:** R&D Software Engineer  
+**Contact:** <federico _at_ strumenta.com>  
 **Salary:** 30K-38K/anno (Euro)
 
 
@@ -39,7 +34,7 @@ I progetti che gestiamo sono relativi al Language Engineering, ma non è necessa
 
 ll lavoro sarà svolto da remoto, ma è necessario avere la residenza in Italia per motivi fiscali. Potrebbero essere necessari saltuari viaggi, in Europa e America del Nord per incontrare i clienti. I viaggi sono brevi e volti a un confronto con il cliente ma lo sviluppo viene svolto da remoto.
 
-## Strumenta
+#### Strumenta
 
 Strumenta è un'azienda di consulenza informatica specializzata nel Language Engineering. Creiamo parser, compilatori, interpreti, editor e Domain Specific Languages per i nostri clienti, quasi tutti fuori dall'Italia. Usiamo varie tecnologie come JetBrains MPS, Xtext e ANTLR per sviluppare soluzioni adatte a migliorare la produttività delle aziende.
 
@@ -63,7 +58,7 @@ In particolare potresti voler leggere questi articoli:
 - [https://tomassetti.me/guide-natural-language-processing/](https://tomassetti.me/guide-natural-language-processing/)
 - [https://tomassetti.me/a-complete-tutorial-on-the-drools-business-rule-engine/](https://tomassetti.me/a-complete-tutorial-on-the-drools-business-rule-engine/)
 
-## Che generi di progetti gestiamo
+#### Che generi di progetti gestiamo
 
 Noi creiamo:
 
@@ -73,11 +68,11 @@ Noi creiamo:
 - Transpiler: per esempio abbiamo recentemente completato un transpiler da VBA a C++
 - Editor: per esempio utilizzando piattaforme come Jetbrains MPS o Monaco
 
-## Proposta economica
+#### Proposta economica
 
 È previsto l'inserimento con contratto a tempo pieno per un periodo di 6 mesi ed una RAL di € 30 000 - 38 000 (annualizzata). Al termine di questo periodo, nel caso entrambe le parti vogliano continuare la collaborazione, il contratto diventerà un contratto a tempo indeterminato.
 
-## Requisiti
+#### Requisiti
 
 È richiesto essere fluenti con l'inglese sia parlato che scritto. Questo è un requisito vincolante, visto che la grande maggioranza dei nostri clienti sono internazionali. Il percorso di selezione verrà svolto in inglese. È gradita la conoscenza di altre lingue, in particolare del francese.
 
@@ -99,7 +94,7 @@ Caratteristiche gradite:
 
 - conoscenza di DSL
 
-## Responsabilità
+#### Responsabilità
 
 La persona che verrà selezionata dovrà svolgere una serie di mansioni che potranno variare nel tempo, essendo la nostra una piccola società in espansione. 
 
@@ -114,7 +109,7 @@ La persona che verrà selezionata dovrà svolgere una serie di mansioni che potr
 - Fornire consulenza e coaching riguardo le tecnologie di parsing. Alcuni clienti ci contattano per chiederci di aiutarli con specifici problemi riguardo l'utilizzo di ANTLR o simili strumenti. Dopo un periodo di formazione interna e di affiancamento il collaboratore dovrà essere in grado di rispondere autonomamente alle domande che riceverà.
 - Gestione infrastruttura. Di tanto in tanto potrebbe essere utile configurare sistemi di CI o strumenti di supporto simile. Tendiamo a usare quanti più servizi chiavi in mano possibile per risparmiare tempo ma di tanto ha senso configurare dei nostri sistemi.
 
-## Percorso di selezione
+#### Percorso di selezione
 
 Per prima cosa dovresti scrivere una email a federico at strumenta punto com. Non applicare attraverso il sito. Quando scrivi l'email non allegare il tuo curriculum. Riceverai una serie di domande, in inglese. 
 
