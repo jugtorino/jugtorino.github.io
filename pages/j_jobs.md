@@ -14,6 +14,28 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 11/10/2019  
+**Company:** [EPAM](https://www.epam.com/)  
+**Location:** Zurich (Switzerland)
+**Title:** Java Developer
+**Contact:** you can use the apply link in the offers
+
+My company is recuiring for these Java Developer position, based in Zurich:
+
+*   [Senior Java Developer](https://www.epam.com/careers/job-listings/job.47329)
+*   [Senior Java Developer with DevOps](https://www.epam.com/careers/job-listings/job.46131)
+*   [3rd Level Support / Java Developer](https://www.epam.com/careers/job-listings/job.47405)
+*   [Java Developer](https://www.epam.com/careers/job-listings/job.47461)
+*   [Senior Java/J2EE Developer](https://www.epam.com/careers/job-listings/job.47671)
+*   [Senior Java Developer with Data Modeling](https://www.epam.com/careers/job-listings/job.48688)
+*   [Full Stack Developer](https://www.epam.com/careers/job-listings/job.47567)
+
+(and [others](https://www.epam.com/careers/job-listings?recruitingUrl=%2Fcareers%2Fjob-listings%2Fjob&query=java&country=Switzerland&city=Zurich&sort=relevance)).
+
+Requirements: being eligible to work in Switzerland (EU candidates or applicants who have open work permit for Switzerland)
+
+---
+
 **Date:** 24/09/2019  
 **Company:** [Strumenta](https://strumenta.com)  
 **Location:** Remoto (Italia per ragioni fiscali)  
