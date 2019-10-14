@@ -16,9 +16,9 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 **Date:** 11/10/2019  
 **Company:** [EPAM](https://www.epam.com/)  
-**Location:** Zurich (Switzerland)
-**Title:** Java Developer
-**Contact:** you can use the apply link in the offers
+**Location:** Zurich (Switzerland)  
+**Title:** Java Developer  
+**Contact:** you can use the apply link in the offers  
 
 My company is recuiring for these Java Developer position, based in Zurich:
 
