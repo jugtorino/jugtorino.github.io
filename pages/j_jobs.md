@@ -14,6 +14,34 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 05/11/2019   
+**Company:** AZINIT   
+**Location:** Turin (Italy)   
+**Title**: Front-end developer   
+**Contact**: <alotito@azinit.it>   
+
+
+Azienda leader nel settore della sicurezza delle comunicazioni, attiva sul mercato nazionale ed internazionale vuole integrare il suo team con un front-end developer con una specifica predisposizione alla user-experience ed all'usabilità delle soluzioni.
+
+Il nuovo Collega sarà inserito nel Team di Ricerca e Sviluppo, nell'ambito dell'evoluzione di prodotti volti al monitoraggio e all'analisi dei dati. Come web developer, avrà l’opportunità di lavorare con nuove e stimolanti tecnologie. Le attività riguarderanno l’analisi e la discussione dei requisiti, la stima dell’effort necessario, lo sviluppo, il test, il rilascio e la manutenzione delle soluzioni sviluppate.
+
+Cosa cerchiamo?
+
+* laurea in discipline tecnico/scientifiche, preferibilmente in Informatica, Ingegneria Informatica, Sicurezza Informatica, o cultura equivalente.
+* esperienza di almeno 1 anno, maturata nello sviluppo web (vanilla JavaScript, HTML5, CSS, Angular.js, Angular, React e npm) è raccomandata, ma l’interesse principale è su competenze e potenziale. Nel caso di maggiore esperienza, il trattamento economico sarà commisurato al bagaglio di competenze.
+* conoscenza della lingua inglese.
+* capacità di seguire processi legati allo sviluppo del codice, alla scrittura della relativa documentazione, al test e predisposizione all’orientamento DevOps.
+* interesse per le nuove tecnologie e predisposizione all’aggiornamento costante.
+
+Costituiranno titolo preferenziale competenze in ambito database nosql e relazionali, conoscenza di sistemi di software automation (Docker, Jenkins, etc.) e competenze sulla componente back-end (Java, Spring, Spring Boot, e sistemi di code: ActiveMQ, Rabbit). Ugualmente importanti saranno considerate: 
+
+* predisposizione al lavoro di gruppo
+* conoscenza dei pattern di programmazione e predisposizione alla scrittura di codice pulito, manutenibile e testabile.
+* interesse nei confronti delle problematiche legate al mondo della sicurezza informatica
+* orientamento al risultato.
+
+---
+
 **Date:** 11/10/2019  
 **Company:** [EPAM](https://www.epam.com/)  
 **Location:** Zurich (Switzerland)  
