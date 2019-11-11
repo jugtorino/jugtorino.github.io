@@ -94,3 +94,9 @@ Capt. Sullenberger: "Got any ideas ?"
 "You live simple, you train hard and live a honest life. Then you are free."
 
 [Eliud Kipchoge](https://www.youtube.com/watch?v=V2ZLG-Fij_4&t=1371)
+
+----
+
+"No Human Is Limited."
+
+[Eliud Kipchoge](https://www.youtube.com/watch?v=bk9_ql_Ltgk)
