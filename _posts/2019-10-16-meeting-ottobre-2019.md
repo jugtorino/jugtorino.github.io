@@ -13,6 +13,8 @@ Apache Camel è uno dei framework di integrazione open source piu completi attua
 
 Luca Burgazzoli is a Principal Software Engineer at Red Hat working on Apache Camel and Camel K, the core technologies of Red Hat Fuse
 
+[![Registrazione meeting](https://i.ytimg.com/vi/_J84V9UXG3Y/hqdefault.jpg)](https://www.youtube.com/watch?v=_J84V9UXG3Y)
+
 #### Quando?
 
 <u>16 Ottobre 2019</u>
