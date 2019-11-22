@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JaRIKo: A JVM interpreter for RPG written in Kotlin
+title: JaRIKo - A JVM interpreter for RPG written in Kotlin
 ---
 
 18 Dicembre 2019
