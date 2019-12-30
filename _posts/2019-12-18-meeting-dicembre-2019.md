@@ -38,6 +38,8 @@ Informatica dal Politecnico di Torino. Ha svolto ricerca e lavorato in
 Italia, Germania, Irlanda, e Francia. Fra gli altri ha lavorato per
 TripAdvisor e Groupon.
 
+[![Registrazione meeting](https://i.ytimg.com/vi/ykmgp7iN-_k/hqdefault.jpg)](https://www.youtube.com/watch?v=ykmgp7iN-_k)
+
 #### Quando?
 
 <u>18 Dicembre 2019</u>
