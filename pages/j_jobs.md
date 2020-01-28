@@ -387,50 +387,6 @@ This job search is offered to member of both sexes (Legge 903/77 e 125/91). It i
 
 ---
 
-**Date:** 08/02/2019  
-**Company:** Weiji  
-**Location:** Torino  
-**Title:** Full stack developer  
-**Contact:** <info@weiji.it>
-
-Da 15 anni attivi nel settore delle tecnologie WEB, più di recente specializzati in ambito editoriale e di editoria multimediale, ricerchiamo nuove figure che andranno a integrare e potenziare lo staff operativo, con rapporti diretti e continuativi nei confronti della direzione, nella fondamentale prospettiva di condividere la crescita di competenze sempre più evolute.
-In particolare,
-
-**FULL STACK DEVELOPER**
-
-**sono richieste le seguenti competenze a livello professionale:**
-
-- Javascript, JQuery, AngularJS;
-- PHP oppure Node.JS+Express.JS;
-- HTML5, CSS3, Bootstrap;
-- Versionamento codice (GIT,...);
-- Strumenti di build (Gulp,...);
-- Tool di sviluppo (Eclipse, Netbeans, Webstorm...);
-- Database relazionali (Mysql,...);
-- Sistemi operativi Unix/Linux;
-
-**sono anche gradite competenze in ambito:**
-
-- Database non relazionali;
-- Framework per app ibride su mobile (PhoneGap/Cordova);
-- Framework per app ibride su desktop (NW.JS/Electron);
-- CSS pre-processor (preferibilmente SASS);
-- Esperienza in responsive design.
-- Amazon Web Services (AWS)
-
-**altre competenze:**
-- Sviluppo nativo su Android (Java/Kotlin) e iOS (Objective-C/Swift).
-
-Il profilo ricercato richiede un'esperienza in ruolo analogo non inferiore a 3/5 anni.
-
-Verranno presi in considerazione anche profili junior da inserire con iniziale stage o apprendistato, in formazione mirata al ruolo ricercato.
-La figura deve manifestare un forte orientamento al risultato, curiosità, passione per l'attività prospettata e capacità di interagire costruttivamente e serenamente all'interno dello staff.
-L'ambiente in cui la figura si andrà ad inserire è giovane, con obiettivi innovativi e caratterizzato da un contesto altamente professionalizzante.
-
-Il livello di inquadramento e retribuzione terrà conto delle competenze e del livello di esperienze raccolte precedentemente.
-
----
-
 **Date:** 14/01/2019
 **Company:** [Orwell Group](https://orwellg.com)  
 **Location:** London  
