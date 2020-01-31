@@ -1,6 +1,6 @@
 ---
 layout: post
-title: After 8: Sweet New Features in the JDK
+title: After 8 - Sweet New Features in the JDK
 ---
 
 5 Febbraio 2019
@@ -11,12 +11,14 @@ Simon Ritter passa da Torino per il suo Italian JUG Tour.
 
 In this session we’ll take a look at the rapid evolution of the Java platform
 with the introduction of new features in each of the recent releases:
-• JDK 9: Java Platform Module System
-• JDK10: Local variable type inference
-• JDK 11: JDK Flight Recorder
-• JDK 12: Switch expressions
-• JDK 13: Text blocks
-• JDK 14: Records and pattern matching
+
+* JDK 9: Java Platform Module System
+* JDK10: Local variable type inference
+* JDK 11: JDK Flight Recorder
+* JDK 12: Switch expressions
+* JDK 13: Text blocks
+* JDK 14: Records and pattern matching
+
 What might future JDKs include? To answer that question, we’ll explore
 some of the longer-term plans for Java, like project Amber, Loom and Valhalla.
 
