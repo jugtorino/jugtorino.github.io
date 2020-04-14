@@ -37,6 +37,8 @@ Simon has twice been awarded Java Rockstar status at JavaOne and is a Java Champ
 He currently represents Azul on the JCP Executive Committee and on the 
 Java SE Expert Group (9, 10, 11 and 12).
 
+[![Registrazione meeting](https://i.ytimg.com/vi/dhgVmnONlyQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dhgVmnONlyQ)
+
 #### Quando?
 
 <u>5 Febbraio 2020</u>

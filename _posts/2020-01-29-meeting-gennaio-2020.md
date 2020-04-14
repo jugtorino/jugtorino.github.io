@@ -26,6 +26,14 @@ But, since most of features after Java 8 did not require a change in the bytecod
 
 Speaker: Roberto Franchini
 
+[![Registrazione meeting](https://i.ytimg.com/vi/n-bG47xy6hI/hqdefault.jpg)](https://www.youtube.com/watch?v=n-bG47xy6hI)
+
+## To monorepo
+
+Speaker: Roberto Franchini
+
+[![Registrazione meeting](https://i.ytimg.com/vi/vOrwHncCT6g/hqdefault.jpg)](https://www.youtube.com/watch?v=vOrwHncCT6g)
+
 #### Quando?
 
 <u>29 Gennaio 2020</u>
