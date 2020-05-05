@@ -21,7 +21,7 @@ Attivo nel mondo Open Source, ha fondato e contribuito a vari progetti open sour
 Simone è stato speaker a diverse conferenze internazionali ed è coordinatore del Java User Group di Torino.
 Simone è specializzato in sviluppo server-side multi-thread, protocolli di rete web (HTTP, HTTP/2, WebSocket) e nel performance tuning della JVM.
 
-![Simone Bordet](https://secure.meetupstatic.com/photos/event/4/7/a/f/highres_490338351.jpeg)
+![Simone Bordet](https://secure.meetupstatic.com/photos/event/4/7/a/f/highres_490338351.jpeg | width=500)
 
 #### Quando?
 
