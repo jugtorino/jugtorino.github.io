@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java 14: Le Novit&agrave;
+title: Java 14 - Le Novità
 ---
 
 14 Maggio 2020
