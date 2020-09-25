@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Consumer Driven Contract Test e Java 15: Le Novità
-
 ---
 
 1 Ottobre 2020
