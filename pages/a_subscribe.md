@@ -14,12 +14,4 @@ Che vantaggi hai iscrivendoti ?
 
 ### Iscrizione alla Mailing List
 
-La Mailing List del JUG Torino è ospitata su
-[Yahoo! Groups](https://groups.yahoo.com/neo/groups/it-torino-java-jug/info).
-
-Le modalità di iscrizione a Yahoo! Groups sono variate nel corso degli anni.
-Recentemente occorre creare uno Yahoo! ID ma è poi possibile cambiare l'email
-di recapito dei messaggi ad una email di propria scelta.
-
-Usa [questo link](https://groups.yahoo.com/neo/groups/it-torino-java-jug/info)
-per iscriverti alla mailing list del JUG Torino.
+La Mailing List del JUG Torino è ospitata su [Goolge Groups](https://groups.google.com/g/jugtorino).
