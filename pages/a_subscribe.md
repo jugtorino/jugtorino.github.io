@@ -14,4 +14,4 @@ Che vantaggi hai iscrivendoti ?
 
 ### Iscrizione alla Mailing List
 
-La Mailing List del JUG Torino è ospitata su [Goolge Groups](https://groups.google.com/g/jugtorino).
+La Mailing List del JUG Torino è ospitata su [Google Groups](https://groups.google.com/g/jugtorino).
