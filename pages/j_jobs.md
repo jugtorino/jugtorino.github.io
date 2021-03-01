@@ -13,6 +13,17 @@ editare online
 Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
+**date** 01-01-2021
+**company** jErgoSoft
+**location** torino italia
+richiesta sviluppatori java per implementare nuove fuonalità ad un progetto esistente:
+java8
+1) autoupdate modulo per aggiornare automaticamente il software prelevandolo da un cloud
+2) modulo per firma digitale, da effettuare via tablet, integrandolo con una libreria che si occupa di apporre firma.
+il file pdf vie e salvato su cartella comune, compilato su tablet, firmato e archiviato mediante libreria, memorizzato su database. necessita di frontend per singolo user e riepilogativo per tutti gli users (jpanel con jtable e filtri data e tipo documento)
+3) app per clienti: visualizza documenti e firma remota, conferma appuntamenti, visione sito.
+
+---
 
 **Date:** 13/08/2020  
 **Company:** [Alfresco](https://www.alfresco.com/)  
