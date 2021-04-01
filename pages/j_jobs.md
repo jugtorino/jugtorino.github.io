@@ -14,6 +14,23 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** dal 1 aprile a luglio 2021  
+**Company:** [CSI Piemonte](https://www.csipiemonte.it)  
+**Location:** Torino, Italia   
+**Title:** 30 assunzioni di profili tecnici
+
+CSI Piemonte è un’azienda di oltre 1000 dipendenti con 40 anni di storia nello sviluppo dei sistemi informativi e di servizi per i cittadini e la pubblica amministrazione.  
+La nuova campagna di assunzioni del CSI Piemonte prevede l’inserimento di 30 professionalità altamente specializzate, in particolare in contesti di sviluppo Agile, AI e Cloud con particolare focus sulle tecnologie e sviluppo Open Source.
+
+I nuovi inserimenti andranno a rafforzare i team impegnati in progetti innovativi, relativi a piattaforme, dati, infrastrutture e servizi applicativi per la Pubblica Amministrazione e i cittadini. Ambiti di sviluppo fondamentali per una realtà come quella del CSI che crede fortemente nel valore sociale dell'innovazione. Puntiamo a offrire servizi digitali di qualità, utili e facili da usare e lavoriamo insieme ai nostri clienti in prima linea nella digital transformation della regione e del Paese.
+
+Le assunzioni avverranno in due fasi: 15 figure ad Aprile e 15 fra Giugno e Luglio, rispetto ai seguenti profili: developer, solution designer, system architect, system administrator e data administrator.
+
+I dettagli sono pubblicati e verranno aggiornati qui  https://www.csipiemonte.it/it/chi-siamo/azienda/lavora-con-noi
+
+
+---
+
 **Date:** 13/08/2020  
 **Company:** [Alfresco](https://www.alfresco.com/)  
 **Location:** Londra (Regno Unito) / Remoto   
