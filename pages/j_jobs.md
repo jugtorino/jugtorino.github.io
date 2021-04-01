@@ -26,7 +26,7 @@ I nuovi inserimenti andranno a rafforzare i team impegnati in progetti innovativ
 
 Le assunzioni avverranno in due fasi: 15 figure ad Aprile e 15 fra Giugno e Luglio, rispetto ai seguenti profili: developer, solution designer, system architect, system administrator e data administrator.
 
-I dettagli sono pubblicati e verranno aggiornati qui  https://www.csipiemonte.it/it/chi-siamo/azienda/lavora-con-noi
+I dettagli sono pubblicati e verranno aggiornati qui [https://www.csipiemonte.it/it/chi-siamo/azienda/lavora-con-noi](https://www.csipiemonte.it/it/chi-siamo/azienda/lavora-con-noi)
 
 
 ---
