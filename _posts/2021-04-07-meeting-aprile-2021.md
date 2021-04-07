@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSI Piemonte: tecnologie per nuovi servizi digitali
+title: CSI Piemonte - tecnologie per nuovi servizi digitali
 ---
 
 12 Aprile 2021
