@@ -32,7 +32,7 @@ Appassionato di informatica da quando la RAM a disposizione si misurava in mega,
 
 <u>12 Aprile 2021</u>
 
-* 18:00 - Inizio Streaming YouTube - **Java 16: le novità**
+* 18:00 - Inizio Streaming YouTube - **CSI Piemonte: tecnologie per nuovi servizi digitali**
 
 #### Dove ?
 
