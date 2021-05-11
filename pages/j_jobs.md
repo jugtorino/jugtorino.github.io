@@ -14,6 +14,47 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 11/05/2021  
+**Company:** [INTESA an IBM Company](https://www.intesa.it)  
+**Location:** Torino, Italia   
+**Title:** BackEnd Developer
+
+Intesa Spa (Gruppo IBM) nell’ambito del suo percorso di crescita e di posizionamento quale polo di innovazione digital di IBM Italia,  ricerca una figura di BackEnd Developer.
+
+La risorsa si occuperà dello sviluppo e del mantenimento delle soluzioni core aziendali, lavorando sulle componenti di back-end, sviluppate principalmente in Java.
+Ulteriori informazioni su metodologie e tecnologie utilizzate saranno fornite in sede di colloquio.
+
+Requisiti
+
+* Esperienza di almeno 3 anni di programmazione Java
+* Padronanza del concetto di architettura a microservizi
+* Framework SpringBoot/SpringCloud
+* Esperienza su esposizione servizi REST e websocket
+* Scrittura di test con Junit
+* Conoscenza di database noSql come ElasticSearch
+* Padronanza tecnologia a container, come Docker
+* Esperienza nell’uso di strumenti come git, maven, artifactory/registry
+* Padronanza della lingua inglese
+* Buone capacità relazionali e attitudine al lavoro in team
+
+Nice to have
+
+* Conoscenza di database Relazionali come Oracle
+* Conoscenza di Kubernetes e OpenShift;
+* Programmazione in Python
+* Sede di lavoro: Full Remote
+
+Retribuzione: Da concordare in base alle effettive esperienze
+
+Invio candidature: intes...@intesa.it
+
+Consenso al trattamento dei dati
+È possibile ritirare il proprio consenso in qualsiasi momento inviando una e-mail al seguente indirizzo: privac...@intesa.it. Oppure, se non si desidera ricevere più le e-mail di marketing, è possibile annullare la sottoscrizione facendo clic sul relativo link di annullamento sottoscrizione, in qualsiasi e-mail.
+
+Ulteriori informazioni sulle procedure sono disponibili nelle Norme di tutela della privacy INTESA. Inoltrando il presente modulo, dichiaro di aver letto e compreso le Norme di tutela della privacy INTESA.
+
+---
+
 **Date:** dal 1 aprile a luglio 2021  
 **Company:** [CSI Piemonte](https://www.csipiemonte.it)  
 **Location:** Torino, Italia   
