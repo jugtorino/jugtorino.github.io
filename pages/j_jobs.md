@@ -46,12 +46,9 @@ Nice to have
 
 Retribuzione: Da concordare in base alle effettive esperienze
 
-Invio candidature: intes...@intesa.it
+Invio candidature: intesa.jobs@intesa.it
 
-Consenso al trattamento dei dati
-È possibile ritirare il proprio consenso in qualsiasi momento inviando una e-mail al seguente indirizzo: privac...@intesa.it. Oppure, se non si desidera ricevere più le e-mail di marketing, è possibile annullare la sottoscrizione facendo clic sul relativo link di annullamento sottoscrizione, in qualsiasi e-mail.
-
-Ulteriori informazioni sulle procedure sono disponibili nelle Norme di tutela della privacy INTESA. Inoltrando il presente modulo, dichiaro di aver letto e compreso le Norme di tutela della privacy INTESA.
+Informazioni sulle procedure e sul trattamento dei dati personali sono disponibili nelle Norme di tutela della privacy INTESA presso: https://www.intesa.it/privacy/
 
 ---
 
