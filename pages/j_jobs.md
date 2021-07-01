@@ -13,7 +13,29 @@ editare online
 Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
+**Date:** 01/07/2021  
+**Company:** [ZeroDue Consulting Ltd](https://zerodueconsulting.com/)  
+**Location:** Remote   
+**Title:** BackEnd Developer
 
+Contratto consulenza: 6 mesi rolling. 
+
+Cliente in Svizzera ma lavoro 100% remoto gestito con Agile con Teams e i vari tools Atlassian.
+
+Application cloud in AWS modellata con DDD (Domain Driven Design). 
+
+Tech stack: Play for Java 11
+            AWS (SQS, S3, Kinesys, Dinamo)
+            Postgres, Redis
+            CloudEvents
+            Data streaming
+
+Start Date: 1st of September            
+            
+Se interessati inviare resume : jobs@zerodueconsulting.com            
+                        
+
+---
 **Date:** 11/05/2021  
 **Company:** [INTESA an IBM Company](https://www.intesa.it)  
 **Location:** Torino, Italia   
