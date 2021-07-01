@@ -20,7 +20,7 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 Contratto consulenza: 6 mesi rolling. 
 
-Cliente in Svizzera ma lavoro 100 remoto gestito con Agile con Teams e i vari tools Atlassian.
+Cliente in Svizzera ma lavoro 100% remoto gestito con Agile con Teams e i vari tools Atlassian.
 
 Application cloud in AWS modellata con DDD (Domain Driven Design). 
 
