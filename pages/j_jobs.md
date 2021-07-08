@@ -13,26 +13,44 @@ editare online
 Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
-**Date:** 01/07/2021  
-**Company:** [ZeroDue Consulting Ltd](https://zerodueconsulting.com/)  
-**Location:** Remote   
-**Title:** BackEnd Developer
+**Date:** 01/07/2021
+**Company:** [ZeroDue Consulting Ltd](https://zerodueconsulting.com/)
+**Location:** Remote
+**Title:** Backend Developer
 
-Contratto consulenza: 6 mesi rolling. 
+Contratto consulenza: 6 mesi rolling.
 
-Cliente in Svizzera ma lavoro 100% remoto gestito con Agile con Teams e i vari tools Atlassian.
+ZeroDue Consulting LTD e’ alla ricerca di sviluppatori/sviluppatrici Java.
+I progetti sui quali lavorerai sono gestiti al 100% da remoto, con (pandemia permettendo) possibili trasferte a Zurigo e Roma.
 
-Application cloud in AWS modellata con DDD (Domain Driven Design). 
+Requisiti per posizioni Junior
+* Esperienza di almeno 1 anno di programmazione Java
+* Conoscenza del concetto di TDD
+* Esperienza di Database Relazionali o noSql
+* Esperienza nell’uso di strumenti di build (maven, gradle, sbt)
+* Esperienza nell’uso di strumenti di code versioning (git)
+* Conoscenza della lingua inglese
 
-Tech stack: Play for Java 11
-            AWS (SQS, S3, Kinesys, Dinamo)
-            Postgres, Redis
-            CloudEvents
-            Data streaming
+Requisiti per posizioni Senior
+* Esperienza di almeno 5 anni di programmazione Java
+* Conoscenza delle architetture a microservizi
+* Conoscenza del modello DDD
+* Esperienza con servizi REST
+* Esperienza con TDD e con framework di test (e.g. JUnit, Mockito, Cucumber)
+* Conoscenza di database relazionali e noSql
+* Esperienza con Docker
+* Esperienza nell’uso di strumenti di build (maven, gradle, sbt)
+* Esperienza nell’uso di strumenti di code versioning (git)
+* Conoscenza della lingua inglese
+* Ottime capacità di lavoro con team distribuiti
 
-Start Date: 1st of September            
-            
-Se interessati inviare resume : jobs@zerodueconsulting.com            
+Nice to have:
+* Esperienza con Play for Java
+* Conoscenza dello stack AWS (in particolare SQS, S3 Kinesis, DynamoDB)
+* Conoscenza dei pacchetti Atlassian
+* 
+Start Date: Inizio settembre
+Le persone interessate possono inviare il loro CV a: jobs@zerodueconsulting.com
                         
 
 ---
