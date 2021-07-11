@@ -19,6 +19,8 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 **Title:** Backend Developer
 
 Contratto consulenza: 6 mesi rolling.
+Tariffe offerte: 250 Euro al giorno per la Junior position e 350 EUR al giorno per la position Senior.
+
 
 ZeroDue Consulting LTD e’ alla ricerca di sviluppatori/sviluppatrici Java.
 I progetti sui quali lavorerai sono gestiti al 100% da remoto, con (pandemia permettendo) possibili trasferte a Zurigo e Roma.
@@ -47,8 +49,8 @@ Requisiti per posizioni Senior
 Nice to have:
 * Esperienza con Play for Java
 * Conoscenza dello stack AWS (in particolare SQS, S3 Kinesis, DynamoDB)
-* Conoscenza dei pacchetti Atlassian
-* 
+* Conoscenza dei pacchetti Atlassian (Jira, Confluence)
+
 Start Date: Inizio settembre
 Le persone interessate possono inviare il loro CV a: jobs@zerodueconsulting.com
                         
