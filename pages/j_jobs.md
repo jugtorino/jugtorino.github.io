@@ -19,7 +19,7 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 **Title:** Backend Developer
 
 Contratto consulenza: 6 mesi rolling.
-Tariffe offerte: 250 Euro al giorno per la Junior position e 350 EUR al giorno per la position Senior.
+Tariffe offerte: 200 Euro al giorno per la Junior position e 350 EUR al giorno per la position Senior.
 
 
 ZeroDue Consulting LTD e’ alla ricerca di sviluppatori/sviluppatrici Java.
