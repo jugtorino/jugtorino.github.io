@@ -13,6 +13,38 @@ editare online
 Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
+**Date:** 30/11/2021
+**Company:** [Quality Group Viaggi](https://www.qualitygroup.it/)
+**Location:** Torino, Italia
+**Title:** Software Senior Engineer
+
+Descrizione dell'azienda
+
+Quality Group è un tour operator nato nel 1999 come consorzio di nove Aziende, opera in tutti i continenti del pianeta secondo un modello di business B2B nel quale gli Agenti di Viaggio rappresentano i Clienti diretti.
+Ospita al proprio interno un reparto IT che gestisce software e hardware a supporto del business aziendale avvalendosi della collaborazione con fornitori esterni.
+
+Descrizione della posizione
+
+Lavorerai nel team che è responsabile della piattaforma per effettuare preventivi e vendita di soluzioni di viaggio, costituita da due principali applicativi web:
+
+* Aladyn: applicativo di front office per la preventivazione dei viaggi. E’ utilizzato dagli operatori interni di Quality Group e dai nostri Clienti, le Agenzie di viaggio. E' scritto in Java secondo i canoni Java Enterprise Edition, con Google Web Toolkit per il frontend, MySQL per lo storage, JBoss come Application Server, Maven come strumento di build, Subversion come strumento di versionamento
+
+* Quality Manager: applicativo di back office per la configurazione dei prodotti utili al sistema di preventivazione. La versione attualmente in uso è scritta in PHP con MySQL per lo storage e Git come strumento di versionamento. Stiamo lavorando sul rifacimento di questo applicativo con un'architettura basata, per il backend, su API REST realizzate in Java/SpringBoot/Docker e, per il frontend, su un modello single page application scritto in React/Redux. Abbiamo iniziato ad introdurre qualche soluzione basata su cloud AWS. Sul nuovo sistema utilizziamo Git come strumento di versionamento e abbiamo introdotto una metodologia CI/CD basata su GitLab, con build automatizzate che girano su GitLab-runner.
+
+Cerchiamo una persona che conosca questi strumenti, o buona parte di essi, con focus sullo sviluppo in ambito backend; che conosca i principi sia di architetture tradizionali monolitiche che a microservizi. Abbiamo bisogno di persone autonome, con la passione per questo tipo di lavoro, l'attitudine a mettersi in gioco per acquisire nuove competenze quando serve e la premura a migliorare la qualità del codice rispetto allo stato di partenza quando si rende necessario. Sono gradite competenze anche sugli strumenti di frontend.
+
+
+Contratto di lavoro: Tempo pieno, Tempo indeterminato
+
+Retribuzione commisurata all’esperienza
+
+Disponibilità: dal lunedì al venerdì
+
+Invio candidature: recruiting@qualitygroup.it
+
+[Posizione su linkedIn](https://www.linkedin.com/jobs/view/2808161376/)
+
+---
 **Date:** 01/07/2021
 **Company:** [ZeroDue Consulting Ltd](https://zerodueconsulting.com/)
 **Location:** Remote
