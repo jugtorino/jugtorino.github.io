@@ -13,6 +13,74 @@ editare online
 Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
+**Date:** 28/12/2021
+
+**Company:** [Strumenta](https://strumenta.com)
+
+**Location:** Remote, Italy
+
+**Title:** R&D Software Engineer for Language Engineering company
+
+Your work will consist in designing and implementing Domain-Specific Languages, parsers, editors, transpilers, and interpreters. We do not expect candidates to be experts on these topics as we will provide the necessary training. 
+
+## What would you do
+
+Responsibilities associated with this position are:
+
+- Design and implement technical solutions for Language Engineering projects
+- Participate in discussions with clients (typically once every two weeks)
+- Coordinate with our project manager and other Software Engineers
+- Write technical articles for our blog
+- Contribute to technical analysis, design documents, and proposals
+- Contribute to internal libraries and products, some of which are open-source
+
+## The company
+
+We are [Strumenta](https://strumenta.com), a fully remote company registered in Italy. We are 4 years old and we are a very small company (less than 10 employees).
+
+In our niche, we are known worldwide, with clients from all over the world contacting us. We have a [community](https://strumenta.community) counting hundreds of members to which we invite experts to give presentations every single week. [Our articles](https://tomassetti.me/blog) have been read millions of times.
+
+## What we expect from you
+
+We expect candidates to:
+
+- Know proper software development methodologies. If we have to explain to you how to use git or that you should write build scripts and unit tests you are not the right candidate for this position
+- Being independent. If you have never worked on a software project with a good degree of autonomy, this would not be a good fit for you
+- Continuously learn and improve by studying new approaches and describing them in our technical blog
+- Keep your word. If we agree to send an email to a client by Friday, we need to do that, consistently. This is particularly important as you will have a lot of autonomy
+- Fluency in English is strictly necessary. You will be expected to explain your technical decisions and interact with clients over Zoom speaking in English.
+- You will need a good internet connection
+- Be resident in Italy. This is necessary for legal reasons
+
+## Why work at Strumenta?
+
+We believe we can be attractive for the right candidate  because:
+
+- We do not believe in being always reachable and in reactive mode. We believe in working the agreed number of hours and enjoying time off the rest of the time.
+- We do not believe in working under pressure. We believe that when our team members are stressed something is wrong in the way the company works and should be corrected.
+- We offer flexible hours: while we expect to offer a certain number of hours each week to be available for meetings, everyone is able to organize their own time. If you want to take a 3 hours break to have lunch with a friend and then take a long walk, we do not need to know, provided you do your job
+- We offer a budget for training of 1K euros year
+- We are small but well organized. We do not wing it and surprise our clients or colleagues. This means you should not expect last-minute requests
+- We are treated as experts by our clients and we are appreciated. We are not borrowed hands
+- Everyone at the company works remotely: there are no first-class and second class citizens
+
+## What do we offer
+
+We offer a gross salary in the range 30K and 38K euro, based on experience. We will offer a temporary contract of one year. After that, we plan to switch to a permanent contract if both parties are satisfied. We used the same approach for every person we hired so far and everyone has been confirmed. We also offer a budget for training of 1K euros a year.
+
+## The selection process
+
+What about the selection process?
+
+- We will send you a short questionnaire to assess your interests and see if there is a fit. It should take a few minutes of your time. We use the VideoAsk platforms, which permit us to register audio or video answers to some questions. This will be useful to assess your English level and start knowing you
+- We will ask you to work on a coding assignment. The submitted code will be used exclusively for the evaluation. To thank you for your time, we will provide a copy of our video course on parsing (currently sold at $679)
+- After reviewing the test project we will invite selected candidates for a 90-minutes interview with our Language Architect, our Project Manager, and two of your future peers.
+
+Our selection process is a bit different, but we think it helps both parties to know each other well enough to make such an important decision as deciding to work together. We think you will appreciate we took our time when we picked your colleagues.
+
+The right candidate will read this message carefully and write an email to recruitment at strumenta.com, without sending their resume or CV and specifying why they are interested in this position in a few lines.
+
+---
 **Date:** 30/11/2021
 **Company:** [Quality Group Viaggi](https://www.qualitygroup.it/)
 **Location:** Torino, Italia
