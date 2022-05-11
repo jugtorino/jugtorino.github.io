@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Call of Ctooling: I Segreti delle Immagini Native
+title: The Call of Ctooling - I Segreti delle Immagini Native
 ---
 
 6 Ottobre 2021
