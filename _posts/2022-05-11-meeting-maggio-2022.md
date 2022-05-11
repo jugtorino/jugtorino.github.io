@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kotlin: Da contract a trailing comma,
+title: Kotlin, da contract a trailing comma,
 ---
 
 11 Maggio 2022
