@@ -13,6 +13,33 @@ editare online
 Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
+**Date:** 19/07/2022
+
+**Company:** [BMPEUROPE S.r.l.](https://www.bmpdoors.it/)
+
+**Location:** Villanova d'Asti, Italia
+
+**Title:** Java web Developer
+
+Siamo BMPEUROPE SRL, leader internazionale nella produzione di porte rapide con 12 punti societari e più di 320 punti vendita nel mondo. Dovuto a una forte crescita aziendale stiamo cercando di far crescere il team interno di sviluppo software. 
+
+Abbiamo bisogno di due nuovi sviluppatori web con almeno 2 anni di esperienza in sviluppo di servizi web con Java ed il più fullstack possibile. Che siano  appassionati e pronti per sfide di ogni genere. In azienda gestiamo internamente tramite diversi tipi di software (web, android, network clients …) tutti i flussi di lavoro: dal commerciale, passando per la gestione ordini e produzione, fino alla spedizione e assistenza post-vendita. 
+
+Tutto è sviluppato con tecnologie open e all'avanguardia. Il nostro stack principale sono microservizi REST scritti in java che vivono sotto la rete locale oppure su AWS. I microservizi vengono interfacciati tramite browser, pistole laser con Android, pistole laser di rete, oppure altri client in php. Tutto lo stack è così composto in ordine di rilevanza per il ruolo cercato: dropwizard (Java), php, Nodejs, Backbone, Android (java e kotlin), React, mysql, SQLServer, mongodb, AWS. La conoscenza di qualsiasi tecnologia di questa lista sarà preferenziali durante il processo di selezione.
+
+Proponiamo contratto fulltime a tempo indeterminato, inquadramento e RAL (30K - 50K) in base all’esperienza. In un ambiente molto dinamico ma con spazio per la formazione.
+
+Il gruppo di sviluppo lavora al 100% da remoto ma abbiamo a disposizione uffici usufruibili all'occorrenza a Villanova d’Asti (AT) dove poter conoscere i colleghi e la realtà aziendale. E’ sempre bello vedere i magazzini automatici che portano i bancali, le macchine taglio laser o il braccio robotico che piega le piastre.
+
+_Competenze necessarie_: Java, SQL.
+
+_Competenze aggiuntive_: web service HTTP REST, Spring, Dropwizard, , Javascript, HTML/CSS, React, AWS, Android.
+
+Invio candidature: marino.gastelu@bmpitalia.it
+
+[Posizione su linkedIn](https://www.linkedin.com/hiring/jobs/3163235093)
+
+---
 **Date:** 22/03/2022
 
 **Company:** [Cognitio S.r.l.](https://www.cognitio.it/)
