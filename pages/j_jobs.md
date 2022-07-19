@@ -17,7 +17,7 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 **Company:** [BMPEUROPE S.r.l.](https://www.bmpdoors.it/)
 
-**Location:** Villanova d'Asti, Italia
+**Location:** Villanova d'Asti, Italia - Remote
 
 **Title:** Java web Developer
 
