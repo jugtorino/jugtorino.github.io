@@ -8,12 +8,12 @@ permalink: /people/simonebordet/
 <simone.bordet@gmail.com>
 <a href="https://github.com/sbordet"><i class="fa fa-fw fa-github"></i></a>
 
-"Cujus rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet"
+"Cujus rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet."
 
-"I have discovered a truly remarkable proof which this margin is too small to contain"
+"I have discovered a truly remarkable proof which this margin is too small to contain."
 
 "Dispongo di una meravigliosa dimostrazione di questo teorema, che non può essere
-contenuta nel margine troppo stretto della pagina"
+contenuta nel margine troppo stretto della pagina."
 
 Pierre de Fermat, ca 1635.
 
@@ -28,7 +28,7 @@ Senior IT architect, Sun Microsystems
 
 ----
 
-"Alzati di là, sei più lungo di un giorno senza pane, lascia fare a me e scappa a salvarti"
+"Alzati di là, sei più lungo di un giorno senza pane, lascia fare a me e scappa a salvarti."
 
 Pietro Micca, 29 Agosto 1706
 
@@ -60,7 +60,7 @@ Brickwalls are there to stop the people who don't want it badly enough."
 
 ----
 
-"If you have to tell people how good you are, how good really are you ?"
+"If you have to tell people how good you are, how good really are you?"
 
 Rick Kaepernick, father of [Colin Kaepernick](http://en.wikipedia.org/wiki/Colin_Kaepernick)
 
@@ -74,7 +74,7 @@ Rick Kaepernick, father of [Colin Kaepernick](http://en.wikipedia.org/wiki/Colin
 
 [Just before landing flight 1549 in the Hudson](https://www.youtube.com/watch?v=gjXCulRjPas)
 
-Capt. Sullenberger: "Got any ideas ?"  
+Capt. Sullenberger: "Got any ideas?"  
 1st Officer Skiles: "Actually not."
 
 ----
@@ -100,3 +100,9 @@ Capt. Sullenberger: "Got any ideas ?"
 "No Human Is Limited."
 
 [Eliud Kipchoge](https://www.youtube.com/watch?v=bk9_ql_Ltgk)
+
+----
+
+"The only question in life is what are you doing for others."
+
+Anonynmous graffiti
