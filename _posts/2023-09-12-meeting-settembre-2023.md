@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java 21 - Updates
+title: Java 21 Updates
 ---
 
 21 Settembre 2023
