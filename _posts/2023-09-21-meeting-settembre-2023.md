@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infrastructure as code
+title: Java 21 - Updates
 ---
 
 21 Settembre 2023
