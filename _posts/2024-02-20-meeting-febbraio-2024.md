@@ -21,7 +21,7 @@ Lavora come Sofware Architect per Hyland. Cerca di scrivere codice e risolvere p
 
 #### Dove ?
 
-In presenza presso il [Centro Lombroso](/pages/places/lombroso.md)
+In presenza presso il [Centro Lombroso](/places/lombroso.md)
 
 #### Come faccio a partecipare?
 
