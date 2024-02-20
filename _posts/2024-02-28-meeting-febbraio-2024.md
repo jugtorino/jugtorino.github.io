@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Java 21 Updates
+title: Stop fighting useless battles
 ---
 
 28 Febbraio 2024
 
-### Java 21 - UpdatesStop fighting useless battles: automate code style, architecture compliance and refactoring
+### Stop fighting useless battles: automate code style, architecture compliance and refactoring
 
 Il talk illustra l'uso di tre tool che aiutano a diminuire le frizioni che si creano all'interno dei team per quella parentesi sulla riga sbagliata, quella classe nel package errato o quel System.out dimenticato.
 
