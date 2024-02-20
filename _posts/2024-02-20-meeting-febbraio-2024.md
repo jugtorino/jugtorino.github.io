@@ -17,8 +17,7 @@ Lavora come Sofware Architect per Hyland. Cerca di scrivere codice e risolvere p
 
 <u>28 Febbraio 2024</u>
 
-* 19:00 - **Stop fighting useless battles: automate code style, architecture compliance and refactoring
-  Il talk illustra l'uso di tre tool che aiutano a diminuire le frizioni che si creano all'interno dei team per quella parentesi sulla riga sbagliata, quella classe nel package errato o quel System.out dimenticato**
+* 19:00 - **Stop fighting useless battles
 
 #### Dove ?
 
