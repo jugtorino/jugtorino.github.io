@@ -17,7 +17,7 @@ Lavora come Sofware Architect per Hyland. Cerca di scrivere codice e risolvere p
 
 <u>28 Febbraio 2024</u>
 
-* 19:00 - **Stop fighting useless battles
+* 19:00 - **Stop fighting useless battles**
 
 #### Dove ?
 
