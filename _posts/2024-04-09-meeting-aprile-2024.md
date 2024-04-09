@@ -8,11 +8,15 @@ title: RAG in Java
 ### RAG in Java
 
 👨🏻‍💼 Santo cielo, ma che succede là dentro?
+
 🦹🏻‍♂️ Retrieval Augmented Generation.
-👨🏻‍💼 RAG? In Java? A quest'ora
-del giorno? Localizzata interamente dentro il tuo computer?
+
+👨🏻‍💼 RAG? In Java? A quest'ora del giorno? Localizzata interamente dentro il tuo computer?
+
 🦹🏻‍♂️ Sì.
+
 👨🏻‍💼 Posso vederla?
+
 🦹🏻‍♂️ Sì.
 
 #### Speaker: Matteo Fordiani
