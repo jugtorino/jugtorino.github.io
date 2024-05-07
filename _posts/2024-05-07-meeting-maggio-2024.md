@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RAG in Java
+title: Java 22 updates
 ---
 
 8 Maggio 2024
