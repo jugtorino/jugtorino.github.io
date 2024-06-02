@@ -37,12 +37,13 @@ Simone è uno dei project leaders di Eclipse Jetty, project leader di CometD e u
 
 #### Quando?
 
-<u>8 Maggio 2024</u>
+<u>12 Giugno 2024</u>
 
 * 19:00 - **Introduzione**
 * 19:15 - **Jetty 12 & Jakarta EE 8-11**
 * a seguire - Pizza
 * 
+
 #### Dove ?
 
 In presenza presso il [Centro Lombroso](/places/lombroso/)
