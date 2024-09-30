@@ -23,7 +23,7 @@ Simone è uno dei project leaders di Eclipse Jetty, project leader di CometD e u
 
 #### Quando?
 
-<u>5 Ottobre 2024</u>
+<u>4 Ottobre 2024</u>
 
 * 18.30 - **Java 232**
 
