@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java 23 updates
+title: Modern Web Development with Java - Vaadin 24 in Practice
 ---
 
 23 Ottobre 2024
