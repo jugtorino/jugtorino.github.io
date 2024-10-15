@@ -106,3 +106,9 @@ Capt. Sullenberger: "Got any ideas?"
 "The only question in life is what are you doing for others."
 
 Anonynmous graffiti
+
+----
+
+"Winning is being better today than you were yesterday. Every day."
+
+[Frank Dick](https://www.frankdick.co.uk/)
