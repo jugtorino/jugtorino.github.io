@@ -43,6 +43,8 @@ In presenza presso:
 Paratissima - Uffici SNOS
 Corso Mortara 24, Torino
 
+In streaming su [YouTube](https://www.youtube.com/watch?v=U8kj8qm4P9E).
+
 #### Come faccio a partecipare?
 
 La partecipazione è aperta a tutti.
