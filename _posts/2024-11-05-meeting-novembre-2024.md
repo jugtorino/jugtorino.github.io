@@ -10,9 +10,22 @@ title: Jakarta EE Meets AI
 Questo meetup del JUG Torino è in collaborazione con [Zero11](https://www.zero11.it/) e sarà in lingua inglese.
 A fine sessione, social networking e rinfresco offerto da Zero11.
 
-#### Session Abstract
+#### Short Session: Java & Skills: research activities at research@eclipse
 
-Most of us do not write our own large language models (LLMs). We are consuming them, and integrating them into our enterprise applications. Ang guess what? Java is the perfect language for this! You don't have to learn Python or any other language for your AI integrations.
+What do you need for open source: soft or hard skills?
+Eclipse Foundation is a partner of SKILLAB, an European project that monitors the demand and supply of skills across the European labor market by leveraging advanced data mining, natural language processing, and machine learning. This approach not only identifies current skill gaps but also anticipates emerging needs, empowering Europe to stay ahead in a rapidly evolving employment landscape.
+
+In this presentation, we will introduce SKILLAB and explore the importance of soft skills in open-source environments, as well as how open source contributes to the development of hard skills.
+
+#### Speaker: Rosaria Rossini
+
+Dr. Rosaria Rossini has a PhD in Computer Science and she is a Research Project Manager in the Eclipse Foundation research team.
+Passionate about technology, she joined the community to help spread "open source" best practices and assist in putting them in place.
+Rosaria is also involved in various European projects, community building and research activities.
+
+#### Main Session: Jakarta EE Meets AI
+
+Most of us do not write our own large language models (LLMs). We are consuming them, and integrating them into our enterprise applications. And guess what? Java is the perfect language for this! You don't have to learn Python or any other language for your AI integrations.
 
 This session will explore different options for Java developers and how to integrate them into your enterprise Java applications. There will be live demos using libraries and tools such as LangChain4J, Spring AI, and Jakarta EE.
 
