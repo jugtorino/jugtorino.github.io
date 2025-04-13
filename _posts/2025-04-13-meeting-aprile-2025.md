@@ -51,6 +51,6 @@ La partecipazione è aperta a tutti.
 
 #### Posso avere un altro riferimento?
 
-La [mailing list](https://groups.yahoo.com/groups/it-torino-java-jug) è il riferimento principale, la puoi consultare anche online se sei già iscritto.
+La [mailing list](https://groups.google.com/g/jugtorino/) è il riferimento principale, la puoi consultare anche online se sei già iscritto.
 
 Puoi contattare [Simone Bordet](/people/simonebordet/) o [Roberto Franchini](/people/robertofranchini/).
