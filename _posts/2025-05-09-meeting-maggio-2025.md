@@ -46,7 +46,7 @@ In presenza presso:
 Zero11 - Uffici SNOS
 Corso Mortara 24, Torino
 
-In streaming su [YouTube](youtube.com/watch?v=Jn6cUz6jwnQ).
+In streaming su [YouTube](https://youtube.com/watch?v=Jn6cUz6jwnQ).
 
 #### Come faccio a partecipare?
 
