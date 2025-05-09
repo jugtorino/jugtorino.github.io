@@ -46,7 +46,7 @@ In presenza presso:
 Zero11 - Uffici SNOS
 Corso Mortara 24, Torino
 
-In streaming su YouTube (link disponibile alcuni giorni prima dell'evento).
+In streaming su [YouTube](youtube.com/watch?v=Jn6cUz6jwnQ).
 
 #### Come faccio a partecipare?
 
@@ -58,6 +58,6 @@ La partecipazione è aperta a tutti.
 
 #### Posso avere un altro riferimento?
 
-La [mailing list](https://groups.yahoo.com/groups/it-torino-java-jug) è il riferimento principale, la puoi consultare anche online se sei già iscritto.
+La [mailing list](https://groups.google.com/g/jugtorino) è il riferimento principale, la puoi consultare anche online se sei già iscritto.
 
 Puoi contattare [Simone Bordet](/people/simonebordet/) o [Roberto Franchini](/people/robertofranchini/).
