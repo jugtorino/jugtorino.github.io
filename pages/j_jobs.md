@@ -40,31 +40,6 @@ Invio candidature: marino.gastelu@bmpitalia.it
 [Posizione su linkedIn](https://www.linkedin.com/hiring/jobs/3163235093)
 
 ---
-**Date:** 22/03/2022
-
-**Company:** [Cognitio S.r.l.](https://www.cognitio.it/)
-
-**Location:** Torino, Italia
-
-**Title:** Full Stack Developer
-
-La Cognitio S.r.l. di Torino cerca un Full Stack Developer per ampliare il proprio team di sviluppo.
-
-Siamo una azienda piccola ma dinamica: svolgiamo sviluppo software per clienti esterni e anche su progetti di sviluppo interno. Nel nostro lavoro privilegiamo competenza e passione, richiediamo dedizione e attitudine collaborativa offrendo formazione continua, ricerca delle ultime tecnologie e strumenti per migliorare costantemente il proprio lavoro e i risultati, promuovendo la crescita professionale.
-
-Cerchiamo una figura da inserire a tempo indeterminato nel nostro team, di età idealmente inferiore a 30 anni.
-
-_Competenze necessarie_: Java, SQL, web service HTTP REST.
-
-_Competenze aggiuntive_: Spring, Gradle, GraphQL, Javascript, HTML/CSS, React, Git, Kafka, Docker, Kubernetes.
-
-Valutiamo sia Junior che Senior, ma requisito necessario è avere almeno un anno di esperienza di sviluppo in Java.
-
-Invio candidature: info@cognitio.it
-
-[Posizione su linkedIn](https://www.linkedin.com/jobs/view/2984371997/)
-
----
 **Date:** 28/12/2021
 
 **Company:** [Strumenta](https://strumenta.com)
